@@ -1,0 +1,1 @@
+![A mad scientist chalkboard featuring planetary gears, transformer circuits, higher-order differential equations, and planet-radius measurements from the hobnilre physics projects.](hobnilre-splash.png)
