@@ -5,6 +5,7 @@
 
 | Article | In brief | PDF created (UTC) |
 | --- | --- | --- |
+| [code-rank](https://github.com/hobnilre/code-rank) · [PDF](https://github.com/hobnilre/code-rank/blob/main/ranking-structured-objects.pdf) | Reversible coordinates for structures, constrained rhythms and melodies. | 2026-09-28 17:04:49 |
 | [cpp-promote](https://github.com/hobnilre/cpp-promote) · [PDF](https://github.com/hobnilre/cpp-promote/blob/main/numeric-promotion-by-chained-visitors.pdf) | Numeric promotion in C++ interpreters using chained visitors. | 2026-09-28 14:58:14 |
 | [music-motion](https://github.com/hobnilre/music-motion) · [PDF](https://github.com/hobnilre/music-motion/blob/main/musical-motion.pdf) | Directed musical motion from shared partials. | 2026-09-28 14:13:01 |
 | [physics-gear](https://github.com/hobnilre/physics-gear) · [PDF](https://github.com/hobnilre/physics-gear/blob/main/frames-returns-and-port-power.pdf) | Signed work and energy stores in gears and transformer returns. | 2026-09-28 10:34:31 |

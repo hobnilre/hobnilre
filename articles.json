@@ -2,6 +2,14 @@
   "schema": 1,
   "articles": [
     {
+      "repository": "hobnilre/code-rank",
+      "description": "Reversible coordinates for structures, constrained rhythms and melodies.",
+      "pdf": "ranking-structured-objects.pdf",
+      "pdf_created_utc": "2026-09-28 17:04:49 UTC",
+      "commit": "79375698ea13c601ed798fad6ff715406f6d3f2f",
+      "pdf_sha256": "2bc9ada742cf8694a7542fc6e431c9cbbcea55707c9b1e3c3fd9a0414527716d"
+    },
+    {
       "repository": "hobnilre/cpp-promote",
       "description": "Numeric promotion in C++ interpreters using chained visitors.",
       "pdf": "numeric-promotion-by-chained-visitors.pdf",
