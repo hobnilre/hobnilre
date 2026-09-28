@@ -1,0 +1,61 @@
+{
+  "schema": 1,
+  "articles": [
+    {
+      "repository": "hobnilre/cpp-promote",
+      "description": "Numeric promotion in C++ interpreters using chained visitors.",
+      "pdf": "numeric-promotion-by-chained-visitors.pdf",
+      "pdf_created_utc": "2026-09-28 14:58:14 UTC",
+      "commit": "4ba6ef79ff765648e654fc841cd9e0261becda5e",
+      "pdf_sha256": "78972255a29dfb958d4db5fd07bfa38bfe9f6efaaee13cb66bc871aee9ca0721"
+    },
+    {
+      "repository": "hobnilre/music-motion",
+      "description": "Directed musical motion from shared partials.",
+      "pdf": "musical-motion.pdf",
+      "pdf_created_utc": "2026-09-28 14:13:01 UTC",
+      "commit": "e654ee8033461756a6c148c111e29d75c15bb40d",
+      "pdf_sha256": "ba2d865c086a18107a9f8c436ca50adccbfa12bf6dc6609b0f109e36f0f2c971"
+    },
+    {
+      "repository": "hobnilre/physics-gear",
+      "description": "Signed work and energy stores in gears and transformer returns.",
+      "pdf": "frames-returns-and-port-power.pdf",
+      "pdf_created_utc": "2026-09-28 10:34:31 UTC",
+      "commit": "a8a9f82b09590e0d0abb12447fc605c1de9306e0",
+      "pdf_sha256": "2ad17ccace538a8e8dc3d6cb883a8384cd86197a694920d1d58a716e7af4bdad"
+    },
+    {
+      "repository": "hobnilre/physics-gear-op",
+      "description": "Measurable open energy questions in gears, windings and supplies.",
+      "pdf": "finite-transfers-and-open-energy-balances.pdf",
+      "pdf_created_utc": "2026-09-28 10:34:36 UTC",
+      "commit": "bbbf7715faffe54969745a760234ea9d5f471899",
+      "pdf_sha256": "2941a375b6d10cf267b081cdc580a5bf70177edc51021cfc278e24a26dc208fd"
+    },
+    {
+      "repository": "hobnilre/physics-ode-3rd-deg",
+      "description": "Higher-order ODE coefficient synthesis, illustrated by an impact driver.",
+      "pdf": "third-and-higher-order-odes.pdf",
+      "pdf_created_utc": "2026-09-28 12:13:39 UTC",
+      "commit": "5eae6cd77a15a2adeab1e51fb9aa4355020b7c8b",
+      "pdf_sha256": "1f9a0d4a642555e9b0484ccb7e255b584d2c0d3afc8b6fe470425dbb90026595"
+    },
+    {
+      "repository": "hobnilre/physics-ode-3rd-deg-op",
+      "description": "Hidden states, impact release and measurable energy transfers.",
+      "pdf": "hidden-states-and-unassigned-work.pdf",
+      "pdf_created_utc": "2026-09-28 12:14:51 UTC",
+      "commit": "5a17b898be09fcb737a80cc3e5603ac957a45dc3",
+      "pdf_sha256": "3952e7e147978efe46647f1ceacb70c8ccb437b800cef3ac0048f12d9d230ee0"
+    },
+    {
+      "repository": "hobnilre/physics-sphere",
+      "description": "Measure a planet’s radius from horizon curvature using two rulers.",
+      "pdf": "planet-radius-with-two-rulers.pdf",
+      "pdf_created_utc": "2026-09-28 10:34:09 UTC",
+      "commit": "01bcd964d267549ec0f7349bf25e384977167384",
+      "pdf_sha256": "d4966092a4f06e8a8b96852b2fdce07c3546aa07948e79666f43cb17ade534d7"
+    }
+  ]
+}
