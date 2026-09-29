@@ -27,11 +27,11 @@
     },
     {
       "repository": "hobnilre/physics-gear",
-      "description": "Signed work and energy stores in gears and transformer returns.",
+      "description": "Four gear shafts, their loaded reactions and electrical counterparts.",
       "pdf": "frames-returns-and-port-power.pdf",
-      "pdf_created_utc": "2026-09-28 10:34:31 UTC",
-      "commit": "a8a9f82b09590e0d0abb12447fc605c1de9306e0",
-      "pdf_sha256": "2ad17ccace538a8e8dc3d6cb883a8384cd86197a694920d1d58a716e7af4bdad"
+      "pdf_created_utc": "2026-09-29 19:02:20 UTC",
+      "commit": "764e1f71ffc04d07468a212d6380624e45c15969",
+      "pdf_sha256": "a21deebca0e55d59bb3efd9d5503d8903553027aafb41f8e07cd8e09a5212301"
     },
     {
       "repository": "hobnilre/physics-gear-op",
