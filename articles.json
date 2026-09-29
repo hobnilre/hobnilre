@@ -2,6 +2,22 @@
   "schema": 1,
   "articles": [
     {
+      "repository": "hobnilre/physics-gear-op",
+      "description": "Physical tests of loaded gears, switched returns and prepared states.",
+      "pdf": "finite-transfers-and-open-energy-balances.pdf",
+      "pdf_created_utc": "2026-09-29 19:08:53 UTC",
+      "commit": "0a6b1ede200fffd7158f1eaae054eca0e186f947",
+      "pdf_sha256": "263dd5faea643daa000815245cdd9c5314af9317e0532f5ab7dcacec62206a30"
+    },
+    {
+      "repository": "hobnilre/physics-gear",
+      "description": "Four gear shafts, their loaded reactions and electrical counterparts.",
+      "pdf": "frames-returns-and-port-power.pdf",
+      "pdf_created_utc": "2026-09-29 19:02:20 UTC",
+      "commit": "764e1f71ffc04d07468a212d6380624e45c15969",
+      "pdf_sha256": "a21deebca0e55d59bb3efd9d5503d8903553027aafb41f8e07cd8e09a5212301"
+    },
+    {
       "repository": "hobnilre/code-rank",
       "description": "Reversible coordinates for structures, constrained rhythms and melodies.",
       "pdf": "ranking-structured-objects.pdf",
@@ -26,20 +42,12 @@
       "pdf_sha256": "ba2d865c086a18107a9f8c436ca50adccbfa12bf6dc6609b0f109e36f0f2c971"
     },
     {
-      "repository": "hobnilre/physics-gear",
-      "description": "Four gear shafts, their loaded reactions and electrical counterparts.",
-      "pdf": "frames-returns-and-port-power.pdf",
-      "pdf_created_utc": "2026-09-29 19:02:20 UTC",
-      "commit": "764e1f71ffc04d07468a212d6380624e45c15969",
-      "pdf_sha256": "a21deebca0e55d59bb3efd9d5503d8903553027aafb41f8e07cd8e09a5212301"
-    },
-    {
-      "repository": "hobnilre/physics-gear-op",
-      "description": "Physical tests of loaded gears, switched returns and prepared states.",
-      "pdf": "finite-transfers-and-open-energy-balances.pdf",
-      "pdf_created_utc": "2026-09-29 19:08:53 UTC",
-      "commit": "0a6b1ede200fffd7158f1eaae054eca0e186f947",
-      "pdf_sha256": "263dd5faea643daa000815245cdd9c5314af9317e0532f5ab7dcacec62206a30"
+      "repository": "hobnilre/physics-ode-3rd-deg-op",
+      "description": "Hidden states, impact release and measurable energy transfers.",
+      "pdf": "hidden-states-and-unassigned-work.pdf",
+      "pdf_created_utc": "2026-09-28 12:14:51 UTC",
+      "commit": "5a17b898be09fcb737a80cc3e5603ac957a45dc3",
+      "pdf_sha256": "3952e7e147978efe46647f1ceacb70c8ccb437b800cef3ac0048f12d9d230ee0"
     },
     {
       "repository": "hobnilre/physics-ode-3rd-deg",
@@ -48,14 +56,6 @@
       "pdf_created_utc": "2026-09-28 12:13:39 UTC",
       "commit": "5eae6cd77a15a2adeab1e51fb9aa4355020b7c8b",
       "pdf_sha256": "1f9a0d4a642555e9b0484ccb7e255b584d2c0d3afc8b6fe470425dbb90026595"
-    },
-    {
-      "repository": "hobnilre/physics-ode-3rd-deg-op",
-      "description": "Hidden states, impact release and measurable energy transfers.",
-      "pdf": "hidden-states-and-unassigned-work.pdf",
-      "pdf_created_utc": "2026-09-28 12:14:51 UTC",
-      "commit": "5a17b898be09fcb737a80cc3e5603ac957a45dc3",
-      "pdf_sha256": "3952e7e147978efe46647f1ceacb70c8ccb437b800cef3ac0048f12d9d230ee0"
     },
     {
       "repository": "hobnilre/physics-sphere",
