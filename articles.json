@@ -35,11 +35,11 @@
     },
     {
       "repository": "hobnilre/physics-gear-op",
-      "description": "Measurable open energy questions in gears, windings and supplies.",
+      "description": "Physical tests of loaded gears, switched returns and prepared states.",
       "pdf": "finite-transfers-and-open-energy-balances.pdf",
-      "pdf_created_utc": "2026-09-28 10:34:36 UTC",
-      "commit": "bbbf7715faffe54969745a760234ea9d5f471899",
-      "pdf_sha256": "2941a375b6d10cf267b081cdc580a5bf70177edc51021cfc278e24a26dc208fd"
+      "pdf_created_utc": "2026-09-29 19:08:53 UTC",
+      "commit": "0a6b1ede200fffd7158f1eaae054eca0e186f947",
+      "pdf_sha256": "263dd5faea643daa000815245cdd9c5314af9317e0532f5ab7dcacec62206a30"
     },
     {
       "repository": "hobnilre/physics-ode-3rd-deg",
