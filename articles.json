@@ -2,6 +2,14 @@
   "schema": 1,
   "articles": [
     {
+      "repository": "hobnilre/code-rank",
+      "description": "Reversible coordinates for structures, constrained rhythms and melodies.",
+      "pdf": "ranking-structured-objects.pdf",
+      "pdf_created_utc": "2026-09-30 18:55:01 UTC",
+      "commit": "5d56d02514d083ec5670117b916c08f28088d334",
+      "pdf_sha256": "2b418ff7b80c246a58284bcceca185e991610711ba8aa8de135bccd6ceaa8230"
+    },
+    {
       "repository": "hobnilre/physics-ode-3rd-deg-op",
       "description": "Hidden states, impact release and measurable energy transfers.",
       "pdf": "hidden-states-and-unassigned-work.pdf",
@@ -40,14 +48,6 @@
       "pdf_created_utc": "2026-09-30 08:32:41 UTC",
       "commit": "d31332f6fb97c638984e196702fc588aacd39c6c",
       "pdf_sha256": "4e317cb168f00736b61bca439958e746f6cf515b54a67d2a3b6c4fd18ace9a3c"
-    },
-    {
-      "repository": "hobnilre/code-rank",
-      "description": "Reversible coordinates for structures, constrained rhythms and melodies.",
-      "pdf": "ranking-structured-objects.pdf",
-      "pdf_created_utc": "2026-09-28 17:04:49 UTC",
-      "commit": "79375698ea13c601ed798fad6ff715406f6d3f2f",
-      "pdf_sha256": "2bc9ada742cf8694a7542fc6e431c9cbbcea55707c9b1e3c3fd9a0414527716d"
     },
     {
       "repository": "hobnilre/cpp-promote",
