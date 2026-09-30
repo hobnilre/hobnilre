@@ -2,6 +2,14 @@
   "schema": 1,
   "articles": [
     {
+      "repository": "hobnilre/music-motion",
+      "description": "Directed musical motion from shared partials.",
+      "pdf": "musical-motion.pdf",
+      "pdf_created_utc": "2026-09-30 18:55:05 UTC",
+      "commit": "b569e5d89e9e07ff4f6f8f642f96c6d0781ae9a3",
+      "pdf_sha256": "ab84f26e9d6f53bccaa852d51c00686f7447d595432552d8dd81b897d9eaf803"
+    },
+    {
       "repository": "hobnilre/cpp-promote",
       "description": "Numeric promotion in C++ interpreters using chained visitors.",
       "pdf": "numeric-promotion-by-chained-visitors.pdf",
@@ -56,14 +64,6 @@
       "pdf_created_utc": "2026-09-30 08:32:41 UTC",
       "commit": "d31332f6fb97c638984e196702fc588aacd39c6c",
       "pdf_sha256": "4e317cb168f00736b61bca439958e746f6cf515b54a67d2a3b6c4fd18ace9a3c"
-    },
-    {
-      "repository": "hobnilre/music-motion",
-      "description": "Directed musical motion from shared partials.",
-      "pdf": "musical-motion.pdf",
-      "pdf_created_utc": "2026-09-28 14:13:01 UTC",
-      "commit": "e654ee8033461756a6c148c111e29d75c15bb40d",
-      "pdf_sha256": "ba2d865c086a18107a9f8c436ca50adccbfa12bf6dc6609b0f109e36f0f2c971"
     },
     {
       "repository": "hobnilre/physics-sphere",
