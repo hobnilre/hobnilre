@@ -2,6 +2,14 @@
   "schema": 1,
   "articles": [
     {
+      "repository": "hobnilre/physics-ode-3rd-deg-op",
+      "description": "Hidden states, impact release and measurable energy transfers.",
+      "pdf": "hidden-states-and-unassigned-work.pdf",
+      "pdf_created_utc": "2026-09-30 18:55:18 UTC",
+      "commit": "e9ca8a20ef33729fef97d2015466de8cac77fd6c",
+      "pdf_sha256": "32ad77f00742fee1feb2f452f31e51ad0c90589618f07a49433efd25b30b76ea"
+    },
+    {
       "repository": "hobnilre/physics-ode-3rd-deg",
       "description": "Higher-order ODE coefficient synthesis, illustrated by an impact driver.",
       "pdf": "third-and-higher-order-odes.pdf",
@@ -48,14 +56,6 @@
       "pdf_created_utc": "2026-09-30 18:55:01 UTC",
       "commit": "5d56d02514d083ec5670117b916c08f28088d334",
       "pdf_sha256": "2b418ff7b80c246a58284bcceca185e991610711ba8aa8de135bccd6ceaa8230"
-    },
-    {
-      "repository": "hobnilre/physics-ode-3rd-deg-op",
-      "description": "Hidden states, impact release and measurable energy transfers.",
-      "pdf": "hidden-states-and-unassigned-work.pdf",
-      "pdf_created_utc": "2026-09-30 18:03:01 UTC",
-      "commit": "92c6987b0ccd0a657864877e00cd114bd0b4eed3",
-      "pdf_sha256": "47a73da3f01db74c46a94478e2521b256f1e07cc21897232e20e24685364f4e5"
     },
     {
       "repository": "hobnilre/rust-sim-the-book",
