@@ -3,6 +3,9 @@
 <!-- article-tools:articles:start -->
 ## Articles
 
+Newest first, including updates. The order follows the creation time of each article's
+latest published PDF (UTC), so a revised edition can move an older article up the list.
+
 | Article | In brief | PDF created (UTC) |
 | --- | --- | --- |
 | [rust-sim-the-book](https://github.com/hobnilre/rust-sim-the-book) · [PDF](https://github.com/hobnilre/rust-sim-the-book/blob/main/rust-sim-the-book.pdf) | A book on SIM architecture, kernel contracts, and reusable domain modules. | 2026-09-30 08:32:41 |
