@@ -2,6 +2,14 @@
   "schema": 1,
   "articles": [
     {
+      "repository": "hobnilre/physics-sphere",
+      "description": "Measure a planet’s radius from horizon curvature using two rulers.",
+      "pdf": "planet-radius-with-two-rulers.pdf",
+      "pdf_created_utc": "2026-09-30 18:55:21 UTC",
+      "commit": "9ce3892f0cdea3a948651603862340ce2cf11a30",
+      "pdf_sha256": "5569a06ba4fe7d45ab3f7c8d23961a25976854be323df24d65fd8f3558b428d2"
+    },
+    {
       "repository": "hobnilre/physics-ode-3rd-deg-op",
       "description": "Hidden states, impact release and measurable energy transfers.",
       "pdf": "hidden-states-and-unassigned-work.pdf",
@@ -64,14 +72,6 @@
       "pdf_created_utc": "2026-09-30 08:32:41 UTC",
       "commit": "d31332f6fb97c638984e196702fc588aacd39c6c",
       "pdf_sha256": "4e317cb168f00736b61bca439958e746f6cf515b54a67d2a3b6c4fd18ace9a3c"
-    },
-    {
-      "repository": "hobnilre/physics-sphere",
-      "description": "Measure a planet’s radius from horizon curvature using two rulers.",
-      "pdf": "planet-radius-with-two-rulers.pdf",
-      "pdf_created_utc": "2026-09-28 10:34:09 UTC",
-      "commit": "01bcd964d267549ec0f7349bf25e384977167384",
-      "pdf_sha256": "d4966092a4f06e8a8b96852b2fdce07c3546aa07948e79666f43cb17ade534d7"
     }
   ]
 }
