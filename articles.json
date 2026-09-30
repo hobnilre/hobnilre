@@ -2,6 +2,14 @@
   "schema": 1,
   "articles": [
     {
+      "repository": "hobnilre/physics-ode-3rd-deg",
+      "description": "Higher-order ODE coefficient synthesis, illustrated by an impact driver.",
+      "pdf": "third-and-higher-order-odes.pdf",
+      "pdf_created_utc": "2026-09-30 18:00:18 UTC",
+      "commit": "0a23883bbdb5075dc9f43fc173ab1bcff281847a",
+      "pdf_sha256": "cb358f599cb749b5586807392b33001d21310d5ecb05c48ba0ae359ee10774a4"
+    },
+    {
       "repository": "hobnilre/physics-gear-op",
       "description": "Physical tests of loaded gears, switched returns and prepared states.",
       "pdf": "finite-transfers-and-open-energy-balances.pdf",
@@ -56,14 +64,6 @@
       "pdf_created_utc": "2026-09-28 12:14:51 UTC",
       "commit": "5a17b898be09fcb737a80cc3e5603ac957a45dc3",
       "pdf_sha256": "3952e7e147978efe46647f1ceacb70c8ccb437b800cef3ac0048f12d9d230ee0"
-    },
-    {
-      "repository": "hobnilre/physics-ode-3rd-deg",
-      "description": "Higher-order ODE coefficient synthesis, illustrated by an impact driver.",
-      "pdf": "third-and-higher-order-odes.pdf",
-      "pdf_created_utc": "2026-09-28 12:13:39 UTC",
-      "commit": "5eae6cd77a15a2adeab1e51fb9aa4355020b7c8b",
-      "pdf_sha256": "1f9a0d4a642555e9b0484ccb7e255b584d2c0d3afc8b6fe470425dbb90026595"
     },
     {
       "repository": "hobnilre/physics-sphere",
