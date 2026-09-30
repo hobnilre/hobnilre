@@ -2,6 +2,14 @@
   "schema": 1,
   "articles": [
     {
+      "repository": "hobnilre/physics-ode-3rd-deg-op",
+      "description": "Hidden states, impact release and measurable energy transfers.",
+      "pdf": "hidden-states-and-unassigned-work.pdf",
+      "pdf_created_utc": "2026-09-30 18:03:01 UTC",
+      "commit": "92c6987b0ccd0a657864877e00cd114bd0b4eed3",
+      "pdf_sha256": "47a73da3f01db74c46a94478e2521b256f1e07cc21897232e20e24685364f4e5"
+    },
+    {
       "repository": "hobnilre/physics-ode-3rd-deg",
       "description": "Higher-order ODE coefficient synthesis, illustrated by an impact driver.",
       "pdf": "third-and-higher-order-odes.pdf",
@@ -56,14 +64,6 @@
       "pdf_created_utc": "2026-09-28 14:13:01 UTC",
       "commit": "e654ee8033461756a6c148c111e29d75c15bb40d",
       "pdf_sha256": "ba2d865c086a18107a9f8c436ca50adccbfa12bf6dc6609b0f109e36f0f2c971"
-    },
-    {
-      "repository": "hobnilre/physics-ode-3rd-deg-op",
-      "description": "Hidden states, impact release and measurable energy transfers.",
-      "pdf": "hidden-states-and-unassigned-work.pdf",
-      "pdf_created_utc": "2026-09-28 12:14:51 UTC",
-      "commit": "5a17b898be09fcb737a80cc3e5603ac957a45dc3",
-      "pdf_sha256": "3952e7e147978efe46647f1ceacb70c8ccb437b800cef3ac0048f12d9d230ee0"
     },
     {
       "repository": "hobnilre/physics-sphere",
