@@ -2,6 +2,14 @@
   "schema": 1,
   "articles": [
     {
+      "repository": "hobnilre/physics-gear",
+      "description": "Four gear shafts, their loaded reactions and electrical counterparts.",
+      "pdf": "frames-returns-and-port-power.pdf",
+      "pdf_created_utc": "2026-09-30 18:55:07 UTC",
+      "commit": "ceac2e1c883f6f57edfd30351f9f7db9238680b1",
+      "pdf_sha256": "6df0fcd0a46d350443c3c4b8a92655904d99275de859da2b091ed62290c21874"
+    },
+    {
       "repository": "hobnilre/music-motion",
       "description": "Directed musical motion from shared partials.",
       "pdf": "musical-motion.pdf",
@@ -48,14 +56,6 @@
       "pdf_created_utc": "2026-09-30 17:34:26 UTC",
       "commit": "9c78ba7a727ae3eee37b3fafbb3d38ff0eb575a8",
       "pdf_sha256": "51ac9268a1e1c0fe9770248bc208e53430ef8f36e691bbaa7adc62aae3325699"
-    },
-    {
-      "repository": "hobnilre/physics-gear",
-      "description": "Four gear shafts, their loaded reactions and electrical counterparts.",
-      "pdf": "frames-returns-and-port-power.pdf",
-      "pdf_created_utc": "2026-09-30 17:25:17 UTC",
-      "commit": "f2a73f5703194be459ea13ffea1a528a8cf80fc8",
-      "pdf_sha256": "7b3e8dd6847bb384b443378a58ac6731509b697f7c60c70f2c2d9d3dd932c290"
     },
     {
       "repository": "hobnilre/rust-sim-the-book",
