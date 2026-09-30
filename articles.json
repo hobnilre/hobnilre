@@ -2,6 +2,14 @@
   "schema": 1,
   "articles": [
     {
+      "repository": "hobnilre/physics-ode-3rd-deg",
+      "description": "Higher-order ODE coefficient synthesis, illustrated by an impact driver.",
+      "pdf": "third-and-higher-order-odes.pdf",
+      "pdf_created_utc": "2026-09-30 18:55:15 UTC",
+      "commit": "8f4390b0b9e67c950573794b809344b48b2e0f16",
+      "pdf_sha256": "7606cb97cc258118bcc058effff17cdb7a80e31b457305061797f0c34c99de9e"
+    },
+    {
       "repository": "hobnilre/physics-gear-op",
       "description": "Physical tests of loaded gears, switched returns and prepared states.",
       "pdf": "finite-transfers-and-open-energy-balances.pdf",
@@ -48,14 +56,6 @@
       "pdf_created_utc": "2026-09-30 18:03:01 UTC",
       "commit": "92c6987b0ccd0a657864877e00cd114bd0b4eed3",
       "pdf_sha256": "47a73da3f01db74c46a94478e2521b256f1e07cc21897232e20e24685364f4e5"
-    },
-    {
-      "repository": "hobnilre/physics-ode-3rd-deg",
-      "description": "Higher-order ODE coefficient synthesis, illustrated by an impact driver.",
-      "pdf": "third-and-higher-order-odes.pdf",
-      "pdf_created_utc": "2026-09-30 18:00:18 UTC",
-      "commit": "0a23883bbdb5075dc9f43fc173ab1bcff281847a",
-      "pdf_sha256": "cb358f599cb749b5586807392b33001d21310d5ecb05c48ba0ae359ee10774a4"
     },
     {
       "repository": "hobnilre/rust-sim-the-book",
