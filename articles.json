@@ -2,6 +2,14 @@
   "schema": 1,
   "articles": [
     {
+      "repository": "hobnilre/physics-gear",
+      "description": "Four gear shafts, their loaded reactions and electrical counterparts.",
+      "pdf": "frames-returns-and-port-power.pdf",
+      "pdf_created_utc": "2026-09-30 15:07:03 UTC",
+      "commit": "36b6e365bc96be0d8cca0c1f4df686b49dc1a14e",
+      "pdf_sha256": "51bcbc8cbb55b75ea9d1e45f1961160f97f76d1b8b158d4db9407c8db41062fb"
+    },
+    {
       "repository": "hobnilre/rust-sim-the-book",
       "description": "A book on SIM architecture, kernel contracts, and reusable domain modules.",
       "pdf": "rust-sim-the-book.pdf",
@@ -16,14 +24,6 @@
       "pdf_created_utc": "2026-09-29 19:08:53 UTC",
       "commit": "0a6b1ede200fffd7158f1eaae054eca0e186f947",
       "pdf_sha256": "263dd5faea643daa000815245cdd9c5314af9317e0532f5ab7dcacec62206a30"
-    },
-    {
-      "repository": "hobnilre/physics-gear",
-      "description": "Four gear shafts, their loaded reactions and electrical counterparts.",
-      "pdf": "frames-returns-and-port-power.pdf",
-      "pdf_created_utc": "2026-09-29 19:02:20 UTC",
-      "commit": "764e1f71ffc04d07468a212d6380624e45c15969",
-      "pdf_sha256": "a21deebca0e55d59bb3efd9d5503d8903553027aafb41f8e07cd8e09a5212301"
     },
     {
       "repository": "hobnilre/code-rank",
