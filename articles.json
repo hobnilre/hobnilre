@@ -2,6 +2,14 @@
   "schema": 1,
   "articles": [
     {
+      "repository": "hobnilre/rust-sim-the-book",
+      "description": "A book on SIM architecture, kernel contracts, and reusable domain modules.",
+      "pdf": "rust-sim-the-book.pdf",
+      "pdf_created_utc": "2026-09-30 18:55:31 UTC",
+      "commit": "d2a094c663d1e523d3e4b354c936d678d510841c",
+      "pdf_sha256": "caac9dcf0a1cdf071e719c99ae95ccde75387dce2422f665fd1cff3c3aa53fbd"
+    },
+    {
       "repository": "hobnilre/physics-sphere",
       "description": "Measure a planet’s radius from horizon curvature using two rulers.",
       "pdf": "planet-radius-with-two-rulers.pdf",
@@ -64,14 +72,6 @@
       "pdf_created_utc": "2026-09-30 18:55:01 UTC",
       "commit": "5d56d02514d083ec5670117b916c08f28088d334",
       "pdf_sha256": "2b418ff7b80c246a58284bcceca185e991610711ba8aa8de135bccd6ceaa8230"
-    },
-    {
-      "repository": "hobnilre/rust-sim-the-book",
-      "description": "A book on SIM architecture, kernel contracts, and reusable domain modules.",
-      "pdf": "rust-sim-the-book.pdf",
-      "pdf_created_utc": "2026-09-30 08:32:41 UTC",
-      "commit": "d31332f6fb97c638984e196702fc588aacd39c6c",
-      "pdf_sha256": "4e317cb168f00736b61bca439958e746f6cf515b54a67d2a3b6c4fd18ace9a3c"
     }
   ]
 }
