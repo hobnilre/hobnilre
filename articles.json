@@ -2,6 +2,14 @@
   "schema": 1,
   "articles": [
     {
+      "repository": "hobnilre/physics-gear-op",
+      "description": "Physical tests of loaded gears, switched returns and prepared states.",
+      "pdf": "finite-transfers-and-open-energy-balances.pdf",
+      "pdf_created_utc": "2026-09-30 18:55:12 UTC",
+      "commit": "2ee2d51eb289d3059eac30dbc8351cd6224404c3",
+      "pdf_sha256": "7246dfaf06806c12f058c93d77159c0c81336779589fef7cdd33d1a521e9c749"
+    },
+    {
       "repository": "hobnilre/physics-gear",
       "description": "Four gear shafts, their loaded reactions and electrical counterparts.",
       "pdf": "frames-returns-and-port-power.pdf",
@@ -48,14 +56,6 @@
       "pdf_created_utc": "2026-09-30 18:00:18 UTC",
       "commit": "0a23883bbdb5075dc9f43fc173ab1bcff281847a",
       "pdf_sha256": "cb358f599cb749b5586807392b33001d21310d5ecb05c48ba0ae359ee10774a4"
-    },
-    {
-      "repository": "hobnilre/physics-gear-op",
-      "description": "Physical tests of loaded gears, switched returns and prepared states.",
-      "pdf": "finite-transfers-and-open-energy-balances.pdf",
-      "pdf_created_utc": "2026-09-30 17:34:26 UTC",
-      "commit": "9c78ba7a727ae3eee37b3fafbb3d38ff0eb575a8",
-      "pdf_sha256": "51ac9268a1e1c0fe9770248bc208e53430ef8f36e691bbaa7adc62aae3325699"
     },
     {
       "repository": "hobnilre/rust-sim-the-book",
