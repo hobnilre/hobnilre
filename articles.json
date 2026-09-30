@@ -2,6 +2,14 @@
   "schema": 1,
   "articles": [
     {
+      "repository": "hobnilre/cpp-promote",
+      "description": "Numeric promotion in C++ interpreters using chained visitors.",
+      "pdf": "numeric-promotion-by-chained-visitors.pdf",
+      "pdf_created_utc": "2026-09-30 18:55:03 UTC",
+      "commit": "c5c880e3b4f8db369201e161ac9013abe960f668",
+      "pdf_sha256": "b42a1a42433d707aef0a2730442e416cacb5046abcdccef849e761256c95228e"
+    },
+    {
       "repository": "hobnilre/code-rank",
       "description": "Reversible coordinates for structures, constrained rhythms and melodies.",
       "pdf": "ranking-structured-objects.pdf",
@@ -48,14 +56,6 @@
       "pdf_created_utc": "2026-09-30 08:32:41 UTC",
       "commit": "d31332f6fb97c638984e196702fc588aacd39c6c",
       "pdf_sha256": "4e317cb168f00736b61bca439958e746f6cf515b54a67d2a3b6c4fd18ace9a3c"
-    },
-    {
-      "repository": "hobnilre/cpp-promote",
-      "description": "Numeric promotion in C++ interpreters using chained visitors.",
-      "pdf": "numeric-promotion-by-chained-visitors.pdf",
-      "pdf_created_utc": "2026-09-28 14:58:14 UTC",
-      "commit": "4ba6ef79ff765648e654fc841cd9e0261becda5e",
-      "pdf_sha256": "78972255a29dfb958d4db5fd07bfa38bfe9f6efaaee13cb66bc871aee9ca0721"
     },
     {
       "repository": "hobnilre/music-motion",
