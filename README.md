@@ -8,8 +8,8 @@ latest published PDF (UTC), so a revised edition can move an older article up th
 
 | Article | In brief | PDF created (UTC) |
 | --- | --- | --- |
+| [physics-gear](https://github.com/hobnilre/physics-gear) · [PDF](https://github.com/hobnilre/physics-gear/blob/main/frames-returns-and-port-power.pdf) | Four gear shafts, their loaded reactions and electrical counterparts. | 2026-09-30 17:25:17 |
 | [physics-gear-op](https://github.com/hobnilre/physics-gear-op) · [PDF](https://github.com/hobnilre/physics-gear-op/blob/main/finite-transfers-and-open-energy-balances.pdf) | Physical tests of loaded gears, switched returns and prepared states. | 2026-09-30 15:07:05 |
-| [physics-gear](https://github.com/hobnilre/physics-gear) · [PDF](https://github.com/hobnilre/physics-gear/blob/main/frames-returns-and-port-power.pdf) | Four gear shafts, their loaded reactions and electrical counterparts. | 2026-09-30 15:07:03 |
 | [rust-sim-the-book](https://github.com/hobnilre/rust-sim-the-book) · [PDF](https://github.com/hobnilre/rust-sim-the-book/blob/main/rust-sim-the-book.pdf) | A book on SIM architecture, kernel contracts, and reusable domain modules. | 2026-09-30 08:32:41 |
 | [code-rank](https://github.com/hobnilre/code-rank) · [PDF](https://github.com/hobnilre/code-rank/blob/main/ranking-structured-objects.pdf) | Reversible coordinates for structures, constrained rhythms and melodies. | 2026-09-28 17:04:49 |
 | [cpp-promote](https://github.com/hobnilre/cpp-promote) · [PDF](https://github.com/hobnilre/cpp-promote/blob/main/numeric-promotion-by-chained-visitors.pdf) | Numeric promotion in C++ interpreters using chained visitors. | 2026-09-28 14:58:14 |
