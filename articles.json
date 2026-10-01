@@ -2,6 +2,14 @@
   "schema": 1,
   "articles": [
     {
+      "repository": "hobnilre/physics-gear",
+      "description": "Four gear shafts, their loaded reactions and electrical counterparts.",
+      "pdf": "frames-returns-and-port-power.pdf",
+      "pdf_created_utc": "2026-10-01 10:14:39 UTC",
+      "commit": "f3904b6a92f8db844ae552eeec223f77020cbf6a",
+      "pdf_sha256": "d52380d8ff43fc09ba2ac75be37bed3d152cf091371c7c6bc51027fd774372cc"
+    },
+    {
       "repository": "hobnilre/physics-ode-3rd-deg-op",
       "description": "Hidden states, impact release and measurable energy transfers.",
       "pdf": "hidden-states-and-unassigned-work.pdf",
@@ -40,14 +48,6 @@
       "pdf_created_utc": "2026-09-30 18:55:12 UTC",
       "commit": "2ee2d51eb289d3059eac30dbc8351cd6224404c3",
       "pdf_sha256": "7246dfaf06806c12f058c93d77159c0c81336779589fef7cdd33d1a521e9c749"
-    },
-    {
-      "repository": "hobnilre/physics-gear",
-      "description": "Four gear shafts, their loaded reactions and electrical counterparts.",
-      "pdf": "frames-returns-and-port-power.pdf",
-      "pdf_created_utc": "2026-09-30 18:55:07 UTC",
-      "commit": "ceac2e1c883f6f57edfd30351f9f7db9238680b1",
-      "pdf_sha256": "6df0fcd0a46d350443c3c4b8a92655904d99275de859da2b091ed62290c21874"
     },
     {
       "repository": "hobnilre/music-motion",
