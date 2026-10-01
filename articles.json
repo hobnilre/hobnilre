@@ -2,6 +2,14 @@
   "schema": 1,
   "articles": [
     {
+      "repository": "hobnilre/rust-sim-the-book",
+      "description": "Book draft on SIM architecture and kernel contracts; chapters 1–2 populated, chapters 3–9 planned.",
+      "pdf": "rust-sim-the-book.pdf",
+      "pdf_created_utc": "2026-10-01 10:55:31 UTC",
+      "commit": "a18ad4a6626d49ae3b2aafeb797a997f4ddf169b",
+      "pdf_sha256": "152419d73aaf300e2117ec9335ad26c332a34edbe53aed94adef8a54f1fbe902"
+    },
+    {
       "repository": "hobnilre/physics-gear",
       "description": "Four gear shafts, their loaded reactions and electrical counterparts.",
       "pdf": "frames-returns-and-port-power.pdf",
@@ -32,14 +40,6 @@
       "pdf_created_utc": "2026-10-01 09:56:44 UTC",
       "commit": "976c25dc9aa5b704038991f0de6d1678b15a8265",
       "pdf_sha256": "2ec28950cd7cfb2a054db639182957809282b6331d23792afe9fa646166c7642"
-    },
-    {
-      "repository": "hobnilre/rust-sim-the-book",
-      "description": "A book on SIM architecture, kernel contracts, and reusable domain modules.",
-      "pdf": "rust-sim-the-book.pdf",
-      "pdf_created_utc": "2026-09-30 18:55:31 UTC",
-      "commit": "d2a094c663d1e523d3e4b354c936d678d510841c",
-      "pdf_sha256": "caac9dcf0a1cdf071e719c99ae95ccde75387dce2422f665fd1cff3c3aa53fbd"
     },
     {
       "repository": "hobnilre/physics-sphere",
