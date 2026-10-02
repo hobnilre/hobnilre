@@ -8,6 +8,7 @@ latest published PDF (UTC), so a revised edition can move an older article up th
 
 | Article | In brief | PDF created (UTC) |
 | --- | --- | --- |
+| [physics-sphere-sv](https://github.com/hobnilre/physics-sphere-sv) · [PDF](https://github.com/hobnilre/physics-sphere-sv/blob/main/planet-radius-with-two-rulers-sv.pdf) | Swedish edition: exact horizon geometry with two rulers and a summary in everyday words. | 2026-10-02 14:16:32 |
 | [rust-sim-the-book](https://github.com/hobnilre/rust-sim-the-book) · [PDF](https://github.com/hobnilre/rust-sim-the-book/blob/main/rust-sim-the-book.pdf) | Book draft on SIM architecture and kernel contracts; chapters 1–2 populated, chapters 3–9 planned. | 2026-10-01 10:55:31 |
 | [physics-gear](https://github.com/hobnilre/physics-gear) · [PDF](https://github.com/hobnilre/physics-gear/blob/main/frames-returns-and-port-power.pdf) | Four gear shafts, their loaded reactions and electrical counterparts. | 2026-10-01 10:14:39 |
 | [physics-gear-op](https://github.com/hobnilre/physics-gear-op) · [PDF](https://github.com/hobnilre/physics-gear-op/blob/main/finite-transfers-and-open-energy-balances.pdf) | Physical tests of loaded gears, switched returns and prepared states. | 2026-10-01 10:14:39 |
