@@ -8,6 +8,7 @@ latest published PDF (UTC), so a revised edition can move an older article up th
 
 | Article | In brief | PDF created (UTC) |
 | --- | --- | --- |
+| [physics-ode-3rd-deg-sv](https://github.com/hobnilre/physics-ode-3rd-deg-sv) · [PDF](https://github.com/hobnilre/physics-ode-3rd-deg-sv/blob/main/third-and-higher-order-odes-sv.pdf) | Swedish main text: higher-order coefficients, impact-driver construction and physical scope. | 2026-10-02 14:53:25 |
 | [physics-sphere-sv](https://github.com/hobnilre/physics-sphere-sv) · [PDF](https://github.com/hobnilre/physics-sphere-sv/blob/main/planet-radius-with-two-rulers-sv.pdf) | Swedish edition: exact horizon geometry with two rulers and a summary in everyday words. | 2026-10-02 14:26:36 |
 | [rust-sim-the-book](https://github.com/hobnilre/rust-sim-the-book) · [PDF](https://github.com/hobnilre/rust-sim-the-book/blob/main/rust-sim-the-book.pdf) | Book draft on SIM architecture and kernel contracts; chapters 1–2 populated, chapters 3–9 planned. | 2026-10-01 10:55:31 |
 | [physics-gear](https://github.com/hobnilre/physics-gear) · [PDF](https://github.com/hobnilre/physics-gear/blob/main/frames-returns-and-port-power.pdf) | Four gear shafts, their loaded reactions and electrical counterparts. | 2026-10-01 10:14:39 |

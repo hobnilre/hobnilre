@@ -2,6 +2,14 @@
   "schema": 1,
   "articles": [
     {
+      "repository": "hobnilre/physics-ode-3rd-deg-sv",
+      "description": "Swedish main text: higher-order coefficients, impact-driver construction and physical scope.",
+      "pdf": "third-and-higher-order-odes-sv.pdf",
+      "pdf_created_utc": "2026-10-02 14:53:25 UTC",
+      "commit": "7eeeff2c4defa6223db9201b9fd2afc7af898351",
+      "pdf_sha256": "e3e50f7a7f608c5e6c2f62fe1701f98c09f2a7aac72d3005127a840d7638ba39"
+    },
+    {
       "repository": "hobnilre/physics-sphere-sv",
       "description": "Swedish edition: exact horizon geometry with two rulers and a summary in everyday words.",
       "pdf": "planet-radius-with-two-rulers-sv.pdf",
