@@ -5,9 +5,9 @@
       "repository": "hobnilre/physics-sphere-sv",
       "description": "Swedish edition: exact horizon geometry with two rulers and a summary in everyday words.",
       "pdf": "planet-radius-with-two-rulers-sv.pdf",
-      "pdf_created_utc": "2026-10-02 14:16:32 UTC",
-      "commit": "fae5cf8168f3d19872494eddaae11067e1bf2d21",
-      "pdf_sha256": "2096a69cf9f1fad25903a9f332c2094a51e922656415f6bc9896158b98c14edb"
+      "pdf_created_utc": "2026-10-02 14:26:36 UTC",
+      "commit": "0304ce41fa351e4f586f84fdc05a1f1a96e23cc4",
+      "pdf_sha256": "2b7033542ae1cb61fd996a9e0b964b1d54b72b5aa1fc2409478ef86558cd7d86"
     },
     {
       "repository": "hobnilre/rust-sim-the-book",
