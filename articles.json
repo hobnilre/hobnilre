@@ -54,7 +54,7 @@
       "description": "Measure a planet’s radius from horizon curvature using two rulers.",
       "pdf": "planet-radius-with-two-rulers.pdf",
       "pdf_created_utc": "2026-09-30 18:55:21 UTC",
-      "commit": "e8b6f3502d5ba192c7899799ded0fc8c189416da",
+      "commit": "a19a23e7adbe63a2a1bc7e423019dc7118d44c15",
       "pdf_sha256": "5569a06ba4fe7d45ab3f7c8d23961a25976854be323df24d65fd8f3558b428d2"
     },
     {
