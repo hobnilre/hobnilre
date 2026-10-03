@@ -2,6 +2,14 @@
   "schema": 1,
   "articles": [
     {
+      "repository": "hobnilre/physics-ode-energy",
+      "description": "Power ledgers and an unknown component in LRC circuits, rotary impact drivers, and a hammer driving a nail.",
+      "pdf": "physics-ode-energy.pdf",
+      "pdf_created_utc": "2026-10-03 14:47:31 UTC",
+      "commit": "31cbd5a6cd2c74198aef336542ca9b642b1b6363",
+      "pdf_sha256": "ac6e33b0860d2ce920fd6aba51c5770b82a982c2797db462ee6c52363219306d"
+    },
+    {
       "repository": "hobnilre/physics-ode-3rd-deg-sv",
       "description": "Swedish main text: higher-order coefficients, impact-driver construction and physical scope.",
       "pdf": "third-and-higher-order-odes-sv.pdf",
