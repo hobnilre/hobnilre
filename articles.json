@@ -2,20 +2,20 @@
   "schema": 1,
   "articles": [
     {
+      "repository": "hobnilre/physics-ode-energy",
+      "description": "Power ledgers and an unknown component in LRC circuits, rotary impact drivers, and a hammer driving a nail.",
+      "pdf": "physics-ode-energy.pdf",
+      "pdf_created_utc": "2026-10-04 11:32:17 UTC",
+      "commit": "0229a83154694aa48779b5210dff5a26eb0c4e73",
+      "pdf_sha256": "a23882fec33b90727868ba3a4109a005615d58f03424d496f6775269b7f5c6d1"
+    },
+    {
       "repository": "hobnilre/physics-ode-energy-sv",
       "description": "Swedish edition: LRC power ledgers, an unknown third-order term, and hammer and impact-driver comparisons.",
       "pdf": "physics-ode-energy-sv.pdf",
       "pdf_created_utc": "2026-10-04 09:46:12 UTC",
       "commit": "9e3786a9b58800e97a6a78b2d6379d3dfe7297f1",
       "pdf_sha256": "120457feb9a07e7fc3796fbb160e145f6067441da8325140b3c4abb8efa395ca"
-    },
-    {
-      "repository": "hobnilre/physics-ode-energy",
-      "description": "Power ledgers and an unknown component in LRC circuits, rotary impact drivers, and a hammer driving a nail.",
-      "pdf": "physics-ode-energy.pdf",
-      "pdf_created_utc": "2026-10-04 09:44:36 UTC",
-      "commit": "cef343c159d10a090f939ab47fcf9b35df81eb5b",
-      "pdf_sha256": "9c3cfa6d263f5ec656fb0c3be133888b0599a2240a9b59c87820122e588af0bb"
     },
     {
       "repository": "hobnilre/physics-ode-3rd-deg-sv",
