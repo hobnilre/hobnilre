@@ -13,9 +13,9 @@
       "repository": "hobnilre/physics-ode-energy-sv",
       "description": "Swedish edition: LRC power ledgers, an unknown third-order term, and hammer and impact-driver comparisons.",
       "pdf": "physics-ode-energy-sv.pdf",
-      "pdf_created_utc": "2026-10-04 11:32:17 UTC",
-      "commit": "46428bf675bc21f92ebd57c8c360751312c57def",
-      "pdf_sha256": "657ea007fa9aa770a2f8ec2212a484802b47563fe7dcf0327ee69ce1adfb9d1f"
+      "pdf_created_utc": "2026-10-04 13:07:31 UTC",
+      "commit": "74d16d83bea52e8739ce5285f4083e82e71ca18f",
+      "pdf_sha256": "8244bfc638a52008313ec6067fab5e0dd68e13bf5ec9cec8406709e4ff12a55b"
     },
     {
       "repository": "hobnilre/physics-ode-3rd-deg-sv",
