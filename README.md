@@ -8,7 +8,7 @@ latest published PDF (UTC), so a revised edition can move an older article up th
 
 | Article | In brief | PDF created (UTC) |
 | --- | --- | --- |
-| [physics-impact-driver-model](https://github.com/hobnilre/physics-impact-driver-model) · [PDF](https://github.com/hobnilre/physics-impact-driver-model/blob/main/physics-impact-driver-model.pdf) | Impact-driver model comparisons: derivative contact limits, passive memory and flexible-output dynamics. | 2026-10-05 12:59:18 |
+| [physics-impact-driver-model](https://github.com/hobnilre/physics-impact-driver-model) · [PDF](https://github.com/hobnilre/physics-impact-driver-model/blob/main/physics-impact-driver-model.pdf) | Impact-driver model comparisons: derivative contact limits, passive memory and flexible-output dynamics. | 2026-10-05 13:34:10 |
 | [physics-ode-energy](https://github.com/hobnilre/physics-ode-energy) · [PDF](https://github.com/hobnilre/physics-ode-energy/blob/main/physics-ode-energy.pdf) | Power ledgers and an unknown component in LRC circuits, rotary impact drivers, and a hammer driving a nail. | 2026-10-04 13:07:31 |
 | [physics-ode-energy-sv](https://github.com/hobnilre/physics-ode-energy-sv) · [PDF](https://github.com/hobnilre/physics-ode-energy-sv/blob/main/physics-ode-energy-sv.pdf) | Swedish edition: LRC power ledgers, an unknown third-order term, and hammer and impact-driver comparisons. | 2026-10-04 13:07:31 |
 | [physics-ode-3rd-deg-sv](https://github.com/hobnilre/physics-ode-3rd-deg-sv) · [PDF](https://github.com/hobnilre/physics-ode-3rd-deg-sv/blob/main/third-and-higher-order-odes-sv.pdf) | Swedish main text: higher-order coefficients, impact-driver construction and physical scope. | 2026-10-02 14:53:25 |
