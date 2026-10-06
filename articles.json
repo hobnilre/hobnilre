@@ -18,6 +18,14 @@
       "pdf_sha256": "16400df0ebda06b66e43aa1a71b001c1e7adfa64f056c450073b672b64efa561"
     },
     {
+      "repository": "hobnilre/cpp-promote",
+      "description": "Numeric promotion in C++ interpreters using chained visitors.",
+      "pdf": "numeric-promotion-by-chained-visitors.pdf",
+      "pdf_created_utc": "2026-10-06 12:34:52 UTC",
+      "commit": "663304fada262834f4601d38ce02856d1b574149",
+      "pdf_sha256": "3bed7b88c8a5e3baecff2f069f4d2a7bdc271fdd6d50f3de9acf334ee668aa37"
+    },
+    {
       "repository": "hobnilre/physics-sphere",
       "description": "Measure a planet’s radius from horizon curvature using two rulers.",
       "pdf": "planet-radius-with-two-rulers.pdf",
@@ -104,14 +112,6 @@
       "pdf_created_utc": "2026-10-01 10:55:31 UTC",
       "commit": "a18ad4a6626d49ae3b2aafeb797a997f4ddf169b",
       "pdf_sha256": "152419d73aaf300e2117ec9335ad26c332a34edbe53aed94adef8a54f1fbe902"
-    },
-    {
-      "repository": "hobnilre/cpp-promote",
-      "description": "Numeric promotion in C++ interpreters using chained visitors.",
-      "pdf": "numeric-promotion-by-chained-visitors.pdf",
-      "pdf_created_utc": "2026-09-30 18:55:03 UTC",
-      "commit": "c5c880e3b4f8db369201e161ac9013abe960f668",
-      "pdf_sha256": "b42a1a42433d707aef0a2730442e416cacb5046abcdccef849e761256c95228e"
     }
   ]
 }
