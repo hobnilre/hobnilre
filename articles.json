@@ -2,6 +2,14 @@
   "schema": 1,
   "articles": [
     {
+      "repository": "hobnilre/code-rank",
+      "description": "Reversible coordinates for structures, constrained rhythms and melodies.",
+      "pdf": "ranking-structured-objects.pdf",
+      "pdf_created_utc": "2026-10-06 12:34:54 UTC",
+      "commit": "834577ce58a23d24187365ea3c949968d6e4c812",
+      "pdf_sha256": "16400df0ebda06b66e43aa1a71b001c1e7adfa64f056c450073b672b64efa561"
+    },
+    {
       "repository": "hobnilre/physics-sphere",
       "description": "Measure a planet’s radius from horizon curvature using two rulers.",
       "pdf": "planet-radius-with-two-rulers.pdf",
@@ -104,14 +112,6 @@
       "pdf_created_utc": "2026-09-30 18:55:03 UTC",
       "commit": "c5c880e3b4f8db369201e161ac9013abe960f668",
       "pdf_sha256": "b42a1a42433d707aef0a2730442e416cacb5046abcdccef849e761256c95228e"
-    },
-    {
-      "repository": "hobnilre/code-rank",
-      "description": "Reversible coordinates for structures, constrained rhythms and melodies.",
-      "pdf": "ranking-structured-objects.pdf",
-      "pdf_created_utc": "2026-09-30 18:55:01 UTC",
-      "commit": "5d56d02514d083ec5670117b916c08f28088d334",
-      "pdf_sha256": "2b418ff7b80c246a58284bcceca185e991610711ba8aa8de135bccd6ceaa8230"
     }
   ]
 }

@@ -8,6 +8,7 @@ latest published PDF (UTC), so a revised edition can move an older article up th
 
 | Article | In brief | PDF created (UTC) |
 | --- | --- | --- |
+| [code-rank](https://github.com/hobnilre/code-rank) · [PDF](https://github.com/hobnilre/code-rank/blob/main/ranking-structured-objects.pdf) | Reversible coordinates for structures, constrained rhythms and melodies. | 2026-10-06 12:34:54 |
 | [physics-sphere](https://github.com/hobnilre/physics-sphere) · [PDF](https://github.com/hobnilre/physics-sphere/blob/main/planet-radius-with-two-rulers.pdf) | Measure a planet’s radius from horizon curvature using two rulers. | 2026-10-06 12:34:48 |
 | [physics-ode-3rd-deg](https://github.com/hobnilre/physics-ode-3rd-deg) · [PDF](https://github.com/hobnilre/physics-ode-3rd-deg/blob/main/third-and-higher-order-odes.pdf) | Higher-order ODE coefficient synthesis, illustrated by an impact driver. | 2026-10-06 12:34:44 |
 | [physics-ode-3rd-deg-op](https://github.com/hobnilre/physics-ode-3rd-deg-op) · [PDF](https://github.com/hobnilre/physics-ode-3rd-deg-op/blob/main/hidden-states-and-unassigned-work.pdf) | Hidden states, impact release and measurable energy transfers. | 2026-10-06 12:34:44 |
@@ -21,6 +22,5 @@ latest published PDF (UTC), so a revised edition can move an older article up th
 | [rust-sim-the-book](https://github.com/hobnilre/rust-sim-the-book) · [PDF](https://github.com/hobnilre/rust-sim-the-book/blob/main/rust-sim-the-book.pdf) | Book draft on SIM architecture and kernel contracts; chapters 1–2 populated, chapters 3–9 planned. | 2026-10-01 10:55:31 |
 | [music-motion](https://github.com/hobnilre/music-motion) · [PDF](https://github.com/hobnilre/music-motion/blob/main/musical-motion.pdf) | Directed musical motion from shared partials. | 2026-09-30 18:55:05 |
 | [cpp-promote](https://github.com/hobnilre/cpp-promote) · [PDF](https://github.com/hobnilre/cpp-promote/blob/main/numeric-promotion-by-chained-visitors.pdf) | Numeric promotion in C++ interpreters using chained visitors. | 2026-09-30 18:55:03 |
-| [code-rank](https://github.com/hobnilre/code-rank) · [PDF](https://github.com/hobnilre/code-rank/blob/main/ranking-structured-objects.pdf) | Reversible coordinates for structures, constrained rhythms and melodies. | 2026-09-30 18:55:01 |
 
 <!-- article-tools:articles:end -->
