@@ -18,6 +18,14 @@
       "pdf_sha256": "d77dfca8f7687dde72c1a4327e9cc6c3e0a8392b647b16145903c57aac6f9b6b"
     },
     {
+      "repository": "hobnilre/physics-ode-3rd-deg-op",
+      "description": "Hidden states, impact release and measurable energy transfers.",
+      "pdf": "hidden-states-and-unassigned-work.pdf",
+      "pdf_created_utc": "2026-10-06 12:34:44 UTC",
+      "commit": "366d2717766985a3130bbaa26bba22fa65c7d0dc",
+      "pdf_sha256": "2fc6d0f79cd36efd8d42150d342e45ba59af0fe83dff137a325012305b77725e"
+    },
+    {
       "repository": "hobnilre/physics-ode-energy",
       "description": "Power ledgers and an unknown component in LRC circuits, rotary impact drivers, and a hammer driving a nail.",
       "pdf": "physics-ode-energy.pdf",
@@ -80,14 +88,6 @@
       "pdf_created_utc": "2026-10-01 10:14:39 UTC",
       "commit": "017bf8ccea9491e455f43afb96b240459e6912a0",
       "pdf_sha256": "14d2ccfe3dcd347a44267b45419bebd1713d7e1cf8d4b437e4f078926c6d22ed"
-    },
-    {
-      "repository": "hobnilre/physics-ode-3rd-deg-op",
-      "description": "Hidden states, impact release and measurable energy transfers.",
-      "pdf": "hidden-states-and-unassigned-work.pdf",
-      "pdf_created_utc": "2026-10-01 09:59:42 UTC",
-      "commit": "f360e4548b651d1889dffba9ecc4acd53f5fcc59",
-      "pdf_sha256": "d47c6dbd33da1eed9efeced1a0502b2e26efb5835b77abaefd790293d24dde02"
     },
     {
       "repository": "hobnilre/music-motion",
