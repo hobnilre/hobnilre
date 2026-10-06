@@ -2,6 +2,14 @@
   "schema": 1,
   "articles": [
     {
+      "repository": "hobnilre/physics-ode-3rd-deg-sv",
+      "description": "Swedish main text: higher-order coefficients, impact-driver construction and physical scope.",
+      "pdf": "third-and-higher-order-odes-sv.pdf",
+      "pdf_created_utc": "2026-10-06 13:36:30 UTC",
+      "commit": "4e55398d0a98050be03435e8d04bdebb29d2ea60",
+      "pdf_sha256": "d3a265ffcb2e3399bc652f38b151abbb0b8c982a0a4db9350f0bcde2150d258d"
+    },
+    {
       "repository": "hobnilre/physics-ode-energy-sv",
       "description": "Swedish edition: LRC power ledgers, an unknown third-order term, and hammer and impact-driver comparisons.",
       "pdf": "physics-ode-energy-sv.pdf",
@@ -96,14 +104,6 @@
       "pdf_created_utc": "2026-10-06 08:48:47 UTC",
       "commit": "7d881dea0d48ca55ec5c09150759ac3cabd3fb94",
       "pdf_sha256": "5e81d9793c4b711a6ed8f0538cb19935d2443fd0ec9b16ad35f8ca04435f2f67"
-    },
-    {
-      "repository": "hobnilre/physics-ode-3rd-deg-sv",
-      "description": "Swedish main text: higher-order coefficients, impact-driver construction and physical scope.",
-      "pdf": "third-and-higher-order-odes-sv.pdf",
-      "pdf_created_utc": "2026-10-02 14:53:25 UTC",
-      "commit": "7eeeff2c4defa6223db9201b9fd2afc7af898351",
-      "pdf_sha256": "e3e50f7a7f608c5e6c2f62fe1701f98c09f2a7aac72d3005127a840d7638ba39"
     },
     {
       "repository": "hobnilre/physics-sphere-sv",
