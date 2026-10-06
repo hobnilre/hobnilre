@@ -2,6 +2,14 @@
   "schema": 1,
   "articles": [
     {
+      "repository": "hobnilre/music-motion",
+      "description": "Directed musical motion from shared partials.",
+      "pdf": "musical-motion.pdf",
+      "pdf_created_utc": "2026-10-06 13:08:16 UTC",
+      "commit": "f4559638149f41e60692212af06f619b6699e724",
+      "pdf_sha256": "2c7c9e76cad47eac4679a47c145b33a9b60b91bc5f94fef6f15c0898c3907c6d"
+    },
+    {
       "repository": "hobnilre/code-rank",
       "description": "Reversible coordinates for structures, constrained rhythms and melodies.",
       "pdf": "ranking-structured-objects.pdf",
@@ -96,14 +104,6 @@
       "pdf_created_utc": "2026-10-01 10:55:31 UTC",
       "commit": "a18ad4a6626d49ae3b2aafeb797a997f4ddf169b",
       "pdf_sha256": "152419d73aaf300e2117ec9335ad26c332a34edbe53aed94adef8a54f1fbe902"
-    },
-    {
-      "repository": "hobnilre/music-motion",
-      "description": "Directed musical motion from shared partials.",
-      "pdf": "musical-motion.pdf",
-      "pdf_created_utc": "2026-09-30 18:55:05 UTC",
-      "commit": "b569e5d89e9e07ff4f6f8f642f96c6d0781ae9a3",
-      "pdf_sha256": "ab84f26e9d6f53bccaa852d51c00686f7447d595432552d8dd81b897d9eaf803"
     },
     {
       "repository": "hobnilre/cpp-promote",
