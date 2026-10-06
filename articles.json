@@ -66,6 +66,14 @@
       "pdf_sha256": "be684944bad35584231a645ee0c2af9b3d0f0612182aaed5862e4b07327199d1"
     },
     {
+      "repository": "hobnilre/rust-sim-the-book",
+      "description": "Book draft on SIM architecture and kernel contracts; chapters 1–2 populated, chapters 3–9 planned.",
+      "pdf": "rust-sim-the-book.pdf",
+      "pdf_created_utc": "2026-10-06 12:34:39 UTC",
+      "commit": "bab7be03619a26710f4645e38ba83e62c35ee677",
+      "pdf_sha256": "de97a7129db029cf14450928a10f6126ad1d4ae67b7be668fff336663ea8963e"
+    },
+    {
       "repository": "hobnilre/physics-ode-energy",
       "description": "Power ledgers and an unknown component in LRC circuits, rotary impact drivers, and a hammer driving a nail.",
       "pdf": "physics-ode-energy.pdf",
@@ -104,14 +112,6 @@
       "pdf_created_utc": "2026-10-02 14:26:36 UTC",
       "commit": "0304ce41fa351e4f586f84fdc05a1f1a96e23cc4",
       "pdf_sha256": "2b7033542ae1cb61fd996a9e0b964b1d54b72b5aa1fc2409478ef86558cd7d86"
-    },
-    {
-      "repository": "hobnilre/rust-sim-the-book",
-      "description": "Book draft on SIM architecture and kernel contracts; chapters 1–2 populated, chapters 3–9 planned.",
-      "pdf": "rust-sim-the-book.pdf",
-      "pdf_created_utc": "2026-10-01 10:55:31 UTC",
-      "commit": "a18ad4a6626d49ae3b2aafeb797a997f4ddf169b",
-      "pdf_sha256": "152419d73aaf300e2117ec9335ad26c332a34edbe53aed94adef8a54f1fbe902"
     }
   ]
 }
