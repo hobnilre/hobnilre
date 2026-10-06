@@ -5,9 +5,9 @@
       "repository": "hobnilre/physics-impact-driver-model",
       "description": "Impact-driver model comparisons: derivative contact limits, passive memory and flexible-output dynamics.",
       "pdf": "physics-impact-driver-model.pdf",
-      "pdf_created_utc": "2026-10-06 07:55:44 UTC",
-      "commit": "263a96418b10e4cbe2455613b3c5803c03ddfc12",
-      "pdf_sha256": "0edb1c42ca95ccbaaea5ce62a2e662836596c16d79d7221b67ddb895807bbac2"
+      "pdf_created_utc": "2026-10-06 08:48:47 UTC",
+      "commit": "7d881dea0d48ca55ec5c09150759ac3cabd3fb94",
+      "pdf_sha256": "5e81d9793c4b711a6ed8f0538cb19935d2443fd0ec9b16ad35f8ca04435f2f67"
     },
     {
       "repository": "hobnilre/physics-ode-energy",
