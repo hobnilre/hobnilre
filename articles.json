@@ -2,6 +2,14 @@
   "schema": 1,
   "articles": [
     {
+      "repository": "hobnilre/physics-ode-3rd-deg",
+      "description": "Higher-order ODE coefficient synthesis, illustrated by an impact driver.",
+      "pdf": "third-and-higher-order-odes.pdf",
+      "pdf_created_utc": "2026-10-06 12:34:44 UTC",
+      "commit": "35792995cc949df728cb22d351f4c5ea7938ef28",
+      "pdf_sha256": "d77dfca8f7687dde72c1a4327e9cc6c3e0a8392b647b16145903c57aac6f9b6b"
+    },
+    {
       "repository": "hobnilre/physics-ode-energy",
       "description": "Power ledgers and an unknown component in LRC circuits, rotary impact drivers, and a hammer driving a nail.",
       "pdf": "physics-ode-energy.pdf",
@@ -72,14 +80,6 @@
       "pdf_created_utc": "2026-10-01 09:59:42 UTC",
       "commit": "f360e4548b651d1889dffba9ecc4acd53f5fcc59",
       "pdf_sha256": "d47c6dbd33da1eed9efeced1a0502b2e26efb5835b77abaefd790293d24dde02"
-    },
-    {
-      "repository": "hobnilre/physics-ode-3rd-deg",
-      "description": "Higher-order ODE coefficient synthesis, illustrated by an impact driver.",
-      "pdf": "third-and-higher-order-odes.pdf",
-      "pdf_created_utc": "2026-10-01 09:56:44 UTC",
-      "commit": "4bdb25cbf6057a848bf9fba09c98db7c5ddc9e9a",
-      "pdf_sha256": "2ec28950cd7cfb2a054db639182957809282b6331d23792afe9fa646166c7642"
     },
     {
       "repository": "hobnilre/physics-sphere",
