@@ -26,6 +26,14 @@
       "pdf_sha256": "2fc6d0f79cd36efd8d42150d342e45ba59af0fe83dff137a325012305b77725e"
     },
     {
+      "repository": "hobnilre/physics-gear-op",
+      "description": "Physical tests of loaded gears, switched returns and prepared states.",
+      "pdf": "finite-transfers-and-open-energy-balances.pdf",
+      "pdf_created_utc": "2026-10-06 12:34:41 UTC",
+      "commit": "c9311e56d1a9678360ecfa66cff33e902dd7813e",
+      "pdf_sha256": "3a4e989d32815fb0602a097d387612ac93aa5cdf52c012ef72278c6e49e2eb36"
+    },
+    {
       "repository": "hobnilre/physics-gear",
       "description": "Four gear shafts, their loaded reactions and electrical counterparts.",
       "pdf": "frames-returns-and-port-power.pdf",
@@ -80,14 +88,6 @@
       "pdf_created_utc": "2026-10-01 10:55:31 UTC",
       "commit": "a18ad4a6626d49ae3b2aafeb797a997f4ddf169b",
       "pdf_sha256": "152419d73aaf300e2117ec9335ad26c332a34edbe53aed94adef8a54f1fbe902"
-    },
-    {
-      "repository": "hobnilre/physics-gear-op",
-      "description": "Physical tests of loaded gears, switched returns and prepared states.",
-      "pdf": "finite-transfers-and-open-energy-balances.pdf",
-      "pdf_created_utc": "2026-10-01 10:14:39 UTC",
-      "commit": "017bf8ccea9491e455f43afb96b240459e6912a0",
-      "pdf_sha256": "14d2ccfe3dcd347a44267b45419bebd1713d7e1cf8d4b437e4f078926c6d22ed"
     },
     {
       "repository": "hobnilre/music-motion",
