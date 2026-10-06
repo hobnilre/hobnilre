@@ -2,6 +2,14 @@
   "schema": 1,
   "articles": [
     {
+      "repository": "hobnilre/physics-ode-energy-sv",
+      "description": "Swedish edition: LRC power ledgers, an unknown third-order term, and hammer and impact-driver comparisons.",
+      "pdf": "physics-ode-energy-sv.pdf",
+      "pdf_created_utc": "2026-10-06 13:36:29 UTC",
+      "commit": "f09543b80f7b82085b248acf49edd9146b691c09",
+      "pdf_sha256": "da290b4c8b20e3ed1499c8af8f7e7c4ef56f3889ab05b97769be0ae3e778d9db"
+    },
+    {
       "repository": "hobnilre/music-motion",
       "description": "Directed musical motion from shared partials.",
       "pdf": "musical-motion.pdf",
@@ -88,14 +96,6 @@
       "pdf_created_utc": "2026-10-06 08:48:47 UTC",
       "commit": "7d881dea0d48ca55ec5c09150759ac3cabd3fb94",
       "pdf_sha256": "5e81d9793c4b711a6ed8f0538cb19935d2443fd0ec9b16ad35f8ca04435f2f67"
-    },
-    {
-      "repository": "hobnilre/physics-ode-energy-sv",
-      "description": "Swedish edition: LRC power ledgers, an unknown third-order term, and hammer and impact-driver comparisons.",
-      "pdf": "physics-ode-energy-sv.pdf",
-      "pdf_created_utc": "2026-10-04 13:07:31 UTC",
-      "commit": "74d16d83bea52e8739ce5285f4083e82e71ca18f",
-      "pdf_sha256": "8244bfc638a52008313ec6067fab5e0dd68e13bf5ec9cec8406709e4ff12a55b"
     },
     {
       "repository": "hobnilre/physics-ode-3rd-deg-sv",
