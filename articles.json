@@ -6,9 +6,11 @@
       "description": "When an unknown ODE term supplies or absorbs energy, and how X=LRC scales the transfer on a fixed trajectory.",
       "pdf": "physics-ode-energy.pdf",
       "pdf_created_utc": "2026-10-08 13:12:50 UTC",
-      "commit": "7acef9f677c759bb2174383849efa8d2f6fc6636",
+      "commit": "cfef0ea15c7434063d1e47c8989594b45a4e5867",
       "pdf_sha256": "a9423598ff08a14a910621326f67f8a51373dfa780cb8426b54fdad8d77ad092",
-      "translations": []
+      "translations": [
+        "sv"
+      ]
     },
     {
       "repository": "hobnilre/physics-ode-coefficient-synthesis",
