@@ -91,9 +91,12 @@
       "description": "Measure a planet’s radius from horizon curvature using two rulers.",
       "pdf": "planet-radius-with-two-rulers.pdf",
       "pdf_created_utc": "2026-10-06 12:34:48 UTC",
-      "commit": "6ce85641f87b8d95780f0f665b75963ba16a182d",
+      "commit": "2d8becfb84b7dcd1a7336af10171152bba236d58",
       "pdf_sha256": "12fb35b29efad21e77718fce16f7430efe90fdd7719e3908cd467b6b52a3f9eb",
-      "translations": []
+      "translations": [
+        "es",
+        "sv"
+      ]
     },
     {
       "repository": "hobnilre/physics-ode-3rd-deg",
