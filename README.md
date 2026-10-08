@@ -8,7 +8,7 @@ latest published PDF (UTC), so a revised edition can move an older article up th
 
 | Article | In brief | PDF created (UTC) |
 | --- | --- | --- |
-| [physics-ode-interconnect-ser-par](https://github.com/hobnilre/physics-ode-interconnect-ser-par) · [PDF](https://github.com/hobnilre/physics-ode-interconnect-ser-par/blob/main/interconnecting-series-and-parallel-odes.pdf) | Series and parallel ODE interconnections derived in time and phasor form. | 2026-10-08 12:16:43 |
+| [physics-ode-interconnect-ser-par](https://github.com/hobnilre/physics-ode-interconnect-ser-par) · [PDF](https://github.com/hobnilre/physics-ode-interconnect-ser-par/blob/main/interconnecting-series-and-parallel-odes.pdf) | Series and parallel ODE interconnections derived in time and phasor form. | 2026-10-08 12:52:00 |
 | [physics-ode-energy-sv](https://github.com/hobnilre/physics-ode-energy-sv) · [PDF](https://github.com/hobnilre/physics-ode-energy-sv/blob/main/physics-ode-energy-sv.pdf) | Swedish edition: when an unknown ODE term supplies or absorbs energy, and how X=LRC scales the transfer. | 2026-10-08 10:48:24 |
 | [physics-ode-energy](https://github.com/hobnilre/physics-ode-energy) · [PDF](https://github.com/hobnilre/physics-ode-energy/blob/main/physics-ode-energy.pdf) | When an unknown ODE term supplies or absorbs energy, and how X=LRC scales the transfer on a fixed trajectory. | 2026-10-08 10:22:36 |
 | [physics-ode-template](https://github.com/hobnilre/physics-ode-template) · [PDF](https://github.com/hobnilre/physics-ode-template/blob/main/ode-template.pdf) | The second-order ODE template and its mechanical and electrical equivalents. | 2026-10-08 10:20:53 |
