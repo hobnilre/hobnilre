@@ -51,15 +51,6 @@
       "translations": []
     },
     {
-      "repository": "hobnilre/physics-sphere-sv",
-      "description": "Swedish edition: exact horizon geometry with two rulers and a summary in everyday words.",
-      "pdf": "planet-radius-with-two-rulers-sv.pdf",
-      "pdf_created_utc": "2026-10-06 13:36:30 UTC",
-      "commit": "6560f79574867cf8ce90fd19b274892e23fc9c13",
-      "pdf_sha256": "ff1504da14fb1fdb7cfc7f9fe9724fa09d81bf6ccc29901d4caea7083a654992",
-      "translations": []
-    },
-    {
       "repository": "hobnilre/music-motion",
       "description": "Directed musical motion from shared partials.",
       "pdf": "musical-motion.pdf",
