@@ -28,9 +28,11 @@
       "description": "Series and parallel ODE interconnections derived in time and phasor form.",
       "pdf": "interconnecting-series-and-parallel-odes.pdf",
       "pdf_created_utc": "2026-10-08 13:07:40 UTC",
-      "commit": "eb161562f913aebe7255da2c83571c38ab16cb3a",
+      "commit": "51df6630b53f93a14844afb91d7c2901c7b2b26e",
       "pdf_sha256": "f16e887b54c26154fe4e952b4261dff70de5693a2987eb663a4867bc62a295d9",
-      "translations": []
+      "translations": [
+        "sv"
+      ]
     },
     {
       "repository": "hobnilre/physics-ode-template",
