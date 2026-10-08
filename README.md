@@ -8,6 +8,7 @@ latest published PDF (UTC), so a revised edition can move an older article up th
 
 | Article | In brief | PDF created (UTC) |
 | --- | --- | --- |
+| [physics-ode-energy](https://github.com/hobnilre/physics-ode-energy) · [PDF](https://github.com/hobnilre/physics-ode-energy/blob/main/physics-ode-energy.pdf) | When an unknown ODE term supplies or absorbs energy, and how X=LRC scales the transfer on a fixed trajectory. | 2026-10-08 10:22:36 |
 | [physics-ode-template](https://github.com/hobnilre/physics-ode-template) · [PDF](https://github.com/hobnilre/physics-ode-template/blob/main/ode-template.pdf) | The second-order ODE template and its mechanical and electrical equivalents. | 2026-10-08 10:20:53 |
 | [physics-ode-interconnect-ser-par](https://github.com/hobnilre/physics-ode-interconnect-ser-par) · [PDF](https://github.com/hobnilre/physics-ode-interconnect-ser-par/blob/main/interconnecting-series-and-parallel-odes.pdf) | Series and parallel ODE interconnections derived in time and phasor form. | 2026-10-08 10:16:48 |
 | [physics-ode-coefficient-synthesis](https://github.com/hobnilre/physics-ode-coefficient-synthesis) · [PDF](https://github.com/hobnilre/physics-ode-coefficient-synthesis/blob/main/ode-coefficient-synthesis.pdf) | ODE coefficients from dimensional constraints, a monomial table, and a staircase recurrence. | 2026-10-08 10:15:43 |
@@ -23,7 +24,6 @@ latest published PDF (UTC), so a revised edition can move an older article up th
 | [physics-gear-op](https://github.com/hobnilre/physics-gear-op) · [PDF](https://github.com/hobnilre/physics-gear-op/blob/main/finite-transfers-and-open-energy-balances.pdf) | Physical tests of loaded gears, switched returns and prepared states. | 2026-10-06 12:34:41 |
 | [physics-gear](https://github.com/hobnilre/physics-gear) · [PDF](https://github.com/hobnilre/physics-gear/blob/main/frames-returns-and-port-power.pdf) | Four gear shafts, their loaded reactions and electrical counterparts. | 2026-10-06 12:34:39 |
 | [rust-sim-the-book](https://github.com/hobnilre/rust-sim-the-book) · [PDF](https://github.com/hobnilre/rust-sim-the-book/blob/main/rust-sim-the-book.pdf) | Book draft on SIM architecture and kernel contracts; chapters 1–2 populated, chapters 3–9 planned. | 2026-10-06 12:34:39 |
-| [physics-ode-energy](https://github.com/hobnilre/physics-ode-energy) · [PDF](https://github.com/hobnilre/physics-ode-energy/blob/main/physics-ode-energy.pdf) | Power ledgers and an unknown component in LRC circuits, rotary impact drivers, and a hammer driving a nail. | 2026-10-06 12:34:35 |
 | [physics-impact-driver-model](https://github.com/hobnilre/physics-impact-driver-model) · [PDF](https://github.com/hobnilre/physics-impact-driver-model/blob/main/physics-impact-driver-model.pdf) | Impact-driver model comparisons: derivative contact limits, passive memory and flexible-output dynamics. | 2026-10-06 08:48:47 |
 
 <!-- article-tools:articles:end -->

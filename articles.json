@@ -2,6 +2,14 @@
   "schema": 1,
   "articles": [
     {
+      "repository": "hobnilre/physics-ode-energy",
+      "description": "When an unknown ODE term supplies or absorbs energy, and how X=LRC scales the transfer on a fixed trajectory.",
+      "pdf": "physics-ode-energy.pdf",
+      "pdf_created_utc": "2026-10-08 10:22:36 UTC",
+      "commit": "5de1ec3e5da76d2bb50e0496cc7a2f83bc3f9980",
+      "pdf_sha256": "3171b41c0b0a460bed3a8f84be9263e41aff135218dee3802318ff5b8c9c106e"
+    },
+    {
       "repository": "hobnilre/physics-ode-template",
       "description": "The second-order ODE template and its mechanical and electrical equivalents.",
       "pdf": "ode-template.pdf",
@@ -120,14 +128,6 @@
       "pdf_created_utc": "2026-10-06 12:34:39 UTC",
       "commit": "bab7be03619a26710f4645e38ba83e62c35ee677",
       "pdf_sha256": "de97a7129db029cf14450928a10f6126ad1d4ae67b7be668fff336663ea8963e"
-    },
-    {
-      "repository": "hobnilre/physics-ode-energy",
-      "description": "Power ledgers and an unknown component in LRC circuits, rotary impact drivers, and a hammer driving a nail.",
-      "pdf": "physics-ode-energy.pdf",
-      "pdf_created_utc": "2026-10-06 12:34:35 UTC",
-      "commit": "004fde04e842c4d421c304068f22cf07fe6986e1",
-      "pdf_sha256": "42e4b734eb5b4d40dee946de4d33413b29b778460bf2a0d7630582a63b1c90fe"
     },
     {
       "repository": "hobnilre/physics-impact-driver-model",
