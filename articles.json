@@ -26,20 +26,20 @@
       "pdf_sha256": "f16e887b54c26154fe4e952b4261dff70de5693a2987eb663a4867bc62a295d9"
     },
     {
+      "repository": "hobnilre/physics-ode-template",
+      "description": "The second-order ODE template and its mechanical and electrical equivalents.",
+      "pdf": "ode-template.pdf",
+      "pdf_created_utc": "2026-10-08 13:07:40 UTC",
+      "commit": "5d894b91fb5cf4cf8d1f69b727bbc79bcfa0cfdb",
+      "pdf_sha256": "6f787645a212d3482b49c53edb7fd70a3aacb20976744fba4560af59d7c29dcc"
+    },
+    {
       "repository": "hobnilre/physics-ode-energy-sv",
       "description": "Swedish edition: when an unknown ODE term supplies or absorbs energy, and how X=LRC scales the transfer.",
       "pdf": "physics-ode-energy-sv.pdf",
       "pdf_created_utc": "2026-10-08 10:48:24 UTC",
       "commit": "5b632014f177ad13c5707f9d90fbc6d17a4ab95f",
       "pdf_sha256": "23995b1b899a289c2f5338eaf9774c51cf560c49304302981d0d3f69cf1952c7"
-    },
-    {
-      "repository": "hobnilre/physics-ode-template",
-      "description": "The second-order ODE template and its mechanical and electrical equivalents.",
-      "pdf": "ode-template.pdf",
-      "pdf_created_utc": "2026-10-08 10:20:53 UTC",
-      "commit": "9b1f190726ca16b7e6dda74b7623cd151e2cee8b",
-      "pdf_sha256": "64419c4fdcb1da15a0352749f7df3290a179f35ea7c63b4887c00af53493fa8c"
     },
     {
       "repository": "hobnilre/physics-ode-3rd-deg-sv",
