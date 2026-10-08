@@ -14,7 +14,7 @@
       "description": "When an unknown ODE term supplies or absorbs energy, and how X=LRC scales the transfer on a fixed trajectory.",
       "pdf": "physics-ode-energy.pdf",
       "pdf_created_utc": "2026-10-08 10:22:36 UTC",
-      "commit": "5de1ec3e5da76d2bb50e0496cc7a2f83bc3f9980",
+      "commit": "ccdd30cbd91ff82784648f5a8ccbbc0b044158fd",
       "pdf_sha256": "3171b41c0b0a460bed3a8f84be9263e41aff135218dee3802318ff5b8c9c106e"
     },
     {
