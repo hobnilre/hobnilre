@@ -39,9 +39,11 @@
       "description": "The second-order ODE template and its mechanical and electrical equivalents.",
       "pdf": "ode-template.pdf",
       "pdf_created_utc": "2026-10-08 13:07:40 UTC",
-      "commit": "5d894b91fb5cf4cf8d1f69b727bbc79bcfa0cfdb",
+      "commit": "e0c8456e7ef37549a8740ef5c2b385e5aa0c70cb",
       "pdf_sha256": "6f787645a212d3482b49c53edb7fd70a3aacb20976744fba4560af59d7c29dcc",
-      "translations": []
+      "translations": [
+        "sv"
+      ]
     },
     {
       "repository": "hobnilre/music-motion",
