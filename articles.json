@@ -10,6 +10,14 @@
       "pdf_sha256": "64419c4fdcb1da15a0352749f7df3290a179f35ea7c63b4887c00af53493fa8c"
     },
     {
+      "repository": "hobnilre/physics-ode-coefficient-synthesis",
+      "description": "ODE coefficients from dimensional constraints, a monomial table, and a staircase recurrence.",
+      "pdf": "ode-coefficient-synthesis.pdf",
+      "pdf_created_utc": "2026-10-08 10:15:43 UTC",
+      "commit": "f6470033eabe3065f8b57d5428b85780faed37aa",
+      "pdf_sha256": "73abb1bdff5170af5368ee2f8b32c9a89c1675108310a7c14b4774fbf7218529"
+    },
+    {
       "repository": "hobnilre/physics-ode-3rd-deg-sv",
       "description": "Swedish main text: higher-order coefficients, impact-driver construction and physical scope.",
       "pdf": "third-and-higher-order-odes-sv.pdf",
