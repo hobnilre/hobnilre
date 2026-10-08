@@ -10,6 +10,14 @@
       "pdf_sha256": "64419c4fdcb1da15a0352749f7df3290a179f35ea7c63b4887c00af53493fa8c"
     },
     {
+      "repository": "hobnilre/physics-ode-interconnect-ser-par",
+      "description": "Series and parallel ODE interconnections derived in time and phasor form.",
+      "pdf": "interconnecting-series-and-parallel-odes.pdf",
+      "pdf_created_utc": "2026-10-08 10:16:48 UTC",
+      "commit": "9d239dd6e6998fe65df82b1d511837f6c9c99758",
+      "pdf_sha256": "cc1b5ba63e5e2aa59053233f0485daa439118ee257636b2d7c29cba15c11f272"
+    },
+    {
       "repository": "hobnilre/physics-ode-coefficient-synthesis",
       "description": "ODE coefficients from dimensional constraints, a monomial table, and a staircase recurrence.",
       "pdf": "ode-coefficient-synthesis.pdf",
