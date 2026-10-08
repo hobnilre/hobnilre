@@ -7,7 +7,8 @@
       "pdf": "physics-ode-energy.pdf",
       "pdf_created_utc": "2026-10-08 13:12:50 UTC",
       "commit": "7acef9f677c759bb2174383849efa8d2f6fc6636",
-      "pdf_sha256": "a9423598ff08a14a910621326f67f8a51373dfa780cb8426b54fdad8d77ad092"
+      "pdf_sha256": "a9423598ff08a14a910621326f67f8a51373dfa780cb8426b54fdad8d77ad092",
+      "translations": []
     },
     {
       "repository": "hobnilre/physics-ode-coefficient-synthesis",
@@ -15,7 +16,10 @@
       "pdf": "ode-coefficient-synthesis.pdf",
       "pdf_created_utc": "2026-10-08 13:07:40 UTC",
       "commit": "01b21883e89b7aee6c5df096737f44b448442c11",
-      "pdf_sha256": "4d521dbacd283023a749c09ff2d30d949ef5d21bf8407ec1d64d44e7b95ff4c5"
+      "pdf_sha256": "4d521dbacd283023a749c09ff2d30d949ef5d21bf8407ec1d64d44e7b95ff4c5",
+      "translations": [
+        "sv"
+      ]
     },
     {
       "repository": "hobnilre/physics-ode-interconnect-ser-par",
@@ -23,7 +27,8 @@
       "pdf": "interconnecting-series-and-parallel-odes.pdf",
       "pdf_created_utc": "2026-10-08 13:07:40 UTC",
       "commit": "eb161562f913aebe7255da2c83571c38ab16cb3a",
-      "pdf_sha256": "f16e887b54c26154fe4e952b4261dff70de5693a2987eb663a4867bc62a295d9"
+      "pdf_sha256": "f16e887b54c26154fe4e952b4261dff70de5693a2987eb663a4867bc62a295d9",
+      "translations": []
     },
     {
       "repository": "hobnilre/physics-ode-template",
@@ -31,7 +36,8 @@
       "pdf": "ode-template.pdf",
       "pdf_created_utc": "2026-10-08 13:07:40 UTC",
       "commit": "5d894b91fb5cf4cf8d1f69b727bbc79bcfa0cfdb",
-      "pdf_sha256": "6f787645a212d3482b49c53edb7fd70a3aacb20976744fba4560af59d7c29dcc"
+      "pdf_sha256": "6f787645a212d3482b49c53edb7fd70a3aacb20976744fba4560af59d7c29dcc",
+      "translations": []
     },
     {
       "repository": "hobnilre/physics-ode-energy-sv",
@@ -39,7 +45,8 @@
       "pdf": "physics-ode-energy-sv.pdf",
       "pdf_created_utc": "2026-10-08 10:48:24 UTC",
       "commit": "5b632014f177ad13c5707f9d90fbc6d17a4ab95f",
-      "pdf_sha256": "23995b1b899a289c2f5338eaf9774c51cf560c49304302981d0d3f69cf1952c7"
+      "pdf_sha256": "23995b1b899a289c2f5338eaf9774c51cf560c49304302981d0d3f69cf1952c7",
+      "translations": []
     },
     {
       "repository": "hobnilre/physics-ode-3rd-deg-sv",
@@ -47,7 +54,8 @@
       "pdf": "third-and-higher-order-odes-sv.pdf",
       "pdf_created_utc": "2026-10-06 13:36:30 UTC",
       "commit": "4e55398d0a98050be03435e8d04bdebb29d2ea60",
-      "pdf_sha256": "d3a265ffcb2e3399bc652f38b151abbb0b8c982a0a4db9350f0bcde2150d258d"
+      "pdf_sha256": "d3a265ffcb2e3399bc652f38b151abbb0b8c982a0a4db9350f0bcde2150d258d",
+      "translations": []
     },
     {
       "repository": "hobnilre/physics-sphere-sv",
@@ -55,7 +63,8 @@
       "pdf": "planet-radius-with-two-rulers-sv.pdf",
       "pdf_created_utc": "2026-10-06 13:36:30 UTC",
       "commit": "6560f79574867cf8ce90fd19b274892e23fc9c13",
-      "pdf_sha256": "ff1504da14fb1fdb7cfc7f9fe9724fa09d81bf6ccc29901d4caea7083a654992"
+      "pdf_sha256": "ff1504da14fb1fdb7cfc7f9fe9724fa09d81bf6ccc29901d4caea7083a654992",
+      "translations": []
     },
     {
       "repository": "hobnilre/music-motion",
@@ -63,7 +72,8 @@
       "pdf": "musical-motion.pdf",
       "pdf_created_utc": "2026-10-06 13:08:16 UTC",
       "commit": "f4559638149f41e60692212af06f619b6699e724",
-      "pdf_sha256": "2c7c9e76cad47eac4679a47c145b33a9b60b91bc5f94fef6f15c0898c3907c6d"
+      "pdf_sha256": "2c7c9e76cad47eac4679a47c145b33a9b60b91bc5f94fef6f15c0898c3907c6d",
+      "translations": []
     },
     {
       "repository": "hobnilre/code-rank",
@@ -71,7 +81,8 @@
       "pdf": "ranking-structured-objects.pdf",
       "pdf_created_utc": "2026-10-06 12:34:54 UTC",
       "commit": "834577ce58a23d24187365ea3c949968d6e4c812",
-      "pdf_sha256": "16400df0ebda06b66e43aa1a71b001c1e7adfa64f056c450073b672b64efa561"
+      "pdf_sha256": "16400df0ebda06b66e43aa1a71b001c1e7adfa64f056c450073b672b64efa561",
+      "translations": []
     },
     {
       "repository": "hobnilre/cpp-promote",
@@ -79,7 +90,8 @@
       "pdf": "numeric-promotion-by-chained-visitors.pdf",
       "pdf_created_utc": "2026-10-06 12:34:52 UTC",
       "commit": "663304fada262834f4601d38ce02856d1b574149",
-      "pdf_sha256": "3bed7b88c8a5e3baecff2f069f4d2a7bdc271fdd6d50f3de9acf334ee668aa37"
+      "pdf_sha256": "3bed7b88c8a5e3baecff2f069f4d2a7bdc271fdd6d50f3de9acf334ee668aa37",
+      "translations": []
     },
     {
       "repository": "hobnilre/physics-sphere",
@@ -87,7 +99,8 @@
       "pdf": "planet-radius-with-two-rulers.pdf",
       "pdf_created_utc": "2026-10-06 12:34:48 UTC",
       "commit": "6ce85641f87b8d95780f0f665b75963ba16a182d",
-      "pdf_sha256": "12fb35b29efad21e77718fce16f7430efe90fdd7719e3908cd467b6b52a3f9eb"
+      "pdf_sha256": "12fb35b29efad21e77718fce16f7430efe90fdd7719e3908cd467b6b52a3f9eb",
+      "translations": []
     },
     {
       "repository": "hobnilre/physics-ode-3rd-deg",
@@ -95,7 +108,8 @@
       "pdf": "third-and-higher-order-odes.pdf",
       "pdf_created_utc": "2026-10-06 12:34:44 UTC",
       "commit": "35792995cc949df728cb22d351f4c5ea7938ef28",
-      "pdf_sha256": "d77dfca8f7687dde72c1a4327e9cc6c3e0a8392b647b16145903c57aac6f9b6b"
+      "pdf_sha256": "d77dfca8f7687dde72c1a4327e9cc6c3e0a8392b647b16145903c57aac6f9b6b",
+      "translations": []
     },
     {
       "repository": "hobnilre/physics-ode-3rd-deg-op",
@@ -103,7 +117,8 @@
       "pdf": "hidden-states-and-unassigned-work.pdf",
       "pdf_created_utc": "2026-10-06 12:34:44 UTC",
       "commit": "366d2717766985a3130bbaa26bba22fa65c7d0dc",
-      "pdf_sha256": "2fc6d0f79cd36efd8d42150d342e45ba59af0fe83dff137a325012305b77725e"
+      "pdf_sha256": "2fc6d0f79cd36efd8d42150d342e45ba59af0fe83dff137a325012305b77725e",
+      "translations": []
     },
     {
       "repository": "hobnilre/physics-gear-op",
@@ -111,7 +126,8 @@
       "pdf": "finite-transfers-and-open-energy-balances.pdf",
       "pdf_created_utc": "2026-10-06 12:34:41 UTC",
       "commit": "c9311e56d1a9678360ecfa66cff33e902dd7813e",
-      "pdf_sha256": "3a4e989d32815fb0602a097d387612ac93aa5cdf52c012ef72278c6e49e2eb36"
+      "pdf_sha256": "3a4e989d32815fb0602a097d387612ac93aa5cdf52c012ef72278c6e49e2eb36",
+      "translations": []
     },
     {
       "repository": "hobnilre/physics-gear",
@@ -119,7 +135,8 @@
       "pdf": "frames-returns-and-port-power.pdf",
       "pdf_created_utc": "2026-10-06 12:34:39 UTC",
       "commit": "981af2eb1142ea9108f47bf0f328dcd29764e3ae",
-      "pdf_sha256": "be684944bad35584231a645ee0c2af9b3d0f0612182aaed5862e4b07327199d1"
+      "pdf_sha256": "be684944bad35584231a645ee0c2af9b3d0f0612182aaed5862e4b07327199d1",
+      "translations": []
     },
     {
       "repository": "hobnilre/rust-sim-the-book",
@@ -127,7 +144,8 @@
       "pdf": "rust-sim-the-book.pdf",
       "pdf_created_utc": "2026-10-06 12:34:39 UTC",
       "commit": "bab7be03619a26710f4645e38ba83e62c35ee677",
-      "pdf_sha256": "de97a7129db029cf14450928a10f6126ad1d4ae67b7be668fff336663ea8963e"
+      "pdf_sha256": "de97a7129db029cf14450928a10f6126ad1d4ae67b7be668fff336663ea8963e",
+      "translations": []
     },
     {
       "repository": "hobnilre/physics-impact-driver-model",
@@ -135,7 +153,8 @@
       "pdf": "physics-impact-driver-model.pdf",
       "pdf_created_utc": "2026-10-06 08:48:47 UTC",
       "commit": "7d881dea0d48ca55ec5c09150759ac3cabd3fb94",
-      "pdf_sha256": "5e81d9793c4b711a6ed8f0538cb19935d2443fd0ec9b16ad35f8ca04435f2f67"
+      "pdf_sha256": "5e81d9793c4b711a6ed8f0538cb19935d2443fd0ec9b16ad35f8ca04435f2f67",
+      "translations": []
     }
   ]
 }
