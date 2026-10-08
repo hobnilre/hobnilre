@@ -14,7 +14,7 @@
       "description": "ODE coefficients from dimensional constraints, a monomial table, and a staircase recurrence.",
       "pdf": "ode-coefficient-synthesis.pdf",
       "pdf_created_utc": "2026-10-08 13:07:40 UTC",
-      "commit": "f2a5840255d9fbe0fe566c7fe03cc7b556e06c70",
+      "commit": "01b21883e89b7aee6c5df096737f44b448442c11",
       "pdf_sha256": "4d521dbacd283023a749c09ff2d30d949ef5d21bf8407ec1d64d44e7b95ff4c5"
     },
     {
