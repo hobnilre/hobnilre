@@ -42,15 +42,6 @@
       "translations": []
     },
     {
-      "repository": "hobnilre/physics-ode-energy-sv",
-      "description": "Swedish edition: when an unknown ODE term supplies or absorbs energy, and how X=LRC scales the transfer.",
-      "pdf": "physics-ode-energy-sv.pdf",
-      "pdf_created_utc": "2026-10-08 10:48:24 UTC",
-      "commit": "5b632014f177ad13c5707f9d90fbc6d17a4ab95f",
-      "pdf_sha256": "23995b1b899a289c2f5338eaf9774c51cf560c49304302981d0d3f69cf1952c7",
-      "translations": []
-    },
-    {
       "repository": "hobnilre/physics-ode-3rd-deg-sv",
       "description": "Swedish main text: higher-order coefficients, impact-driver construction and physical scope.",
       "pdf": "third-and-higher-order-odes-sv.pdf",
