@@ -2,6 +2,14 @@
   "schema": 1,
   "articles": [
     {
+      "repository": "hobnilre/physics-ode-energy",
+      "description": "When an unknown ODE term supplies or absorbs energy, and how X=LRC scales the transfer on a fixed trajectory.",
+      "pdf": "physics-ode-energy.pdf",
+      "pdf_created_utc": "2026-10-08 13:12:50 UTC",
+      "commit": "7acef9f677c759bb2174383849efa8d2f6fc6636",
+      "pdf_sha256": "a9423598ff08a14a910621326f67f8a51373dfa780cb8426b54fdad8d77ad092"
+    },
+    {
       "repository": "hobnilre/physics-ode-interconnect-ser-par",
       "description": "Series and parallel ODE interconnections derived in time and phasor form.",
       "pdf": "interconnecting-series-and-parallel-odes.pdf",
@@ -16,14 +24,6 @@
       "pdf_created_utc": "2026-10-08 10:48:24 UTC",
       "commit": "5b632014f177ad13c5707f9d90fbc6d17a4ab95f",
       "pdf_sha256": "23995b1b899a289c2f5338eaf9774c51cf560c49304302981d0d3f69cf1952c7"
-    },
-    {
-      "repository": "hobnilre/physics-ode-energy",
-      "description": "When an unknown ODE term supplies or absorbs energy, and how X=LRC scales the transfer on a fixed trajectory.",
-      "pdf": "physics-ode-energy.pdf",
-      "pdf_created_utc": "2026-10-08 10:22:36 UTC",
-      "commit": "ccdd30cbd91ff82784648f5a8ccbbc0b044158fd",
-      "pdf_sha256": "3171b41c0b0a460bed3a8f84be9263e41aff135218dee3802318ff5b8c9c106e"
     },
     {
       "repository": "hobnilre/physics-ode-template",
