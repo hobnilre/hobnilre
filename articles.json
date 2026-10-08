@@ -5,9 +5,9 @@
       "repository": "hobnilre/physics-ode-interconnect-ser-par",
       "description": "Series and parallel ODE interconnections derived in time and phasor form.",
       "pdf": "interconnecting-series-and-parallel-odes.pdf",
-      "pdf_created_utc": "2026-10-08 11:27:16 UTC",
-      "commit": "c946e6b36a90b9d6d3b1441834c1529d01377f1d",
-      "pdf_sha256": "f28e02687c1b68ba85055ebffd49f5e0e1da05723fe47463e9d11df3cc689395"
+      "pdf_created_utc": "2026-10-08 12:16:43 UTC",
+      "commit": "daf80974e83dbc944b7a80300ed7e3c9aba940cf",
+      "pdf_sha256": "e4dad18f5d5ccb11dab69b018aca0651b167c8406134a9bca4398902098ee2f9"
     },
     {
       "repository": "hobnilre/physics-ode-energy-sv",
