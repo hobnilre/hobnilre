@@ -42,15 +42,6 @@
       "translations": []
     },
     {
-      "repository": "hobnilre/physics-ode-3rd-deg-sv",
-      "description": "Swedish main text: higher-order coefficients, impact-driver construction and physical scope.",
-      "pdf": "third-and-higher-order-odes-sv.pdf",
-      "pdf_created_utc": "2026-10-06 13:36:30 UTC",
-      "commit": "4e55398d0a98050be03435e8d04bdebb29d2ea60",
-      "pdf_sha256": "d3a265ffcb2e3399bc652f38b151abbb0b8c982a0a4db9350f0bcde2150d258d",
-      "translations": []
-    },
-    {
       "repository": "hobnilre/music-motion",
       "description": "Directed musical motion from shared partials.",
       "pdf": "musical-motion.pdf",
