@@ -2,6 +2,14 @@
   "schema": 1,
   "articles": [
     {
+      "repository": "hobnilre/physics-ode-interconnect-ser-par",
+      "description": "Series and parallel ODE interconnections derived in time and phasor form.",
+      "pdf": "interconnecting-series-and-parallel-odes.pdf",
+      "pdf_created_utc": "2026-10-08 11:27:16 UTC",
+      "commit": "c946e6b36a90b9d6d3b1441834c1529d01377f1d",
+      "pdf_sha256": "f28e02687c1b68ba85055ebffd49f5e0e1da05723fe47463e9d11df3cc689395"
+    },
+    {
       "repository": "hobnilre/physics-ode-energy-sv",
       "description": "Swedish edition: when an unknown ODE term supplies or absorbs energy, and how X=LRC scales the transfer.",
       "pdf": "physics-ode-energy-sv.pdf",
@@ -24,14 +32,6 @@
       "pdf_created_utc": "2026-10-08 10:20:53 UTC",
       "commit": "9b1f190726ca16b7e6dda74b7623cd151e2cee8b",
       "pdf_sha256": "64419c4fdcb1da15a0352749f7df3290a179f35ea7c63b4887c00af53493fa8c"
-    },
-    {
-      "repository": "hobnilre/physics-ode-interconnect-ser-par",
-      "description": "Series and parallel ODE interconnections derived in time and phasor form.",
-      "pdf": "interconnecting-series-and-parallel-odes.pdf",
-      "pdf_created_utc": "2026-10-08 10:16:48 UTC",
-      "commit": "9d239dd6e6998fe65df82b1d511837f6c9c99758",
-      "pdf_sha256": "cc1b5ba63e5e2aa59053233f0485daa439118ee257636b2d7c29cba15c11f272"
     },
     {
       "repository": "hobnilre/physics-ode-coefficient-synthesis",
