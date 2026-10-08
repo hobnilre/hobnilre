@@ -2,6 +2,14 @@
   "schema": 1,
   "articles": [
     {
+      "repository": "hobnilre/physics-ode-energy-sv",
+      "description": "Swedish edition: when an unknown ODE term supplies or absorbs energy, and how X=LRC scales the transfer.",
+      "pdf": "physics-ode-energy-sv.pdf",
+      "pdf_created_utc": "2026-10-08 10:48:24 UTC",
+      "commit": "5b632014f177ad13c5707f9d90fbc6d17a4ab95f",
+      "pdf_sha256": "23995b1b899a289c2f5338eaf9774c51cf560c49304302981d0d3f69cf1952c7"
+    },
+    {
       "repository": "hobnilre/physics-ode-energy",
       "description": "When an unknown ODE term supplies or absorbs energy, and how X=LRC scales the transfer on a fixed trajectory.",
       "pdf": "physics-ode-energy.pdf",
@@ -48,14 +56,6 @@
       "pdf_created_utc": "2026-10-06 13:36:30 UTC",
       "commit": "6560f79574867cf8ce90fd19b274892e23fc9c13",
       "pdf_sha256": "ff1504da14fb1fdb7cfc7f9fe9724fa09d81bf6ccc29901d4caea7083a654992"
-    },
-    {
-      "repository": "hobnilre/physics-ode-energy-sv",
-      "description": "Swedish edition: LRC power ledgers, an unknown third-order term, and hammer and impact-driver comparisons.",
-      "pdf": "physics-ode-energy-sv.pdf",
-      "pdf_created_utc": "2026-10-06 13:36:29 UTC",
-      "commit": "f09543b80f7b82085b248acf49edd9146b691c09",
-      "pdf_sha256": "da290b4c8b20e3ed1499c8af8f7e7c4ef56f3889ab05b97769be0ae3e778d9db"
     },
     {
       "repository": "hobnilre/music-motion",
