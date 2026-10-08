@@ -2,6 +2,14 @@
   "schema": 1,
   "articles": [
     {
+      "repository": "hobnilre/physics-ode-template",
+      "description": "The second-order ODE template and its mechanical and electrical equivalents.",
+      "pdf": "ode-template.pdf",
+      "pdf_created_utc": "2026-10-08 10:20:53 UTC",
+      "commit": "9b1f190726ca16b7e6dda74b7623cd151e2cee8b",
+      "pdf_sha256": "64419c4fdcb1da15a0352749f7df3290a179f35ea7c63b4887c00af53493fa8c"
+    },
+    {
       "repository": "hobnilre/physics-ode-3rd-deg-sv",
       "description": "Swedish main text: higher-order coefficients, impact-driver construction and physical scope.",
       "pdf": "third-and-higher-order-odes-sv.pdf",
