@@ -5,9 +5,9 @@
       "repository": "hobnilre/physics-ode-energy",
       "description": "When an unknown ODE term supplies or absorbs energy, and how X=LRC scales the transfer on a fixed trajectory.",
       "pdf": "physics-ode-energy.pdf",
-      "pdf_created_utc": "2026-10-08 16:48:55 UTC",
-      "commit": "12989bb38e4b44e8ffabab8c51de791b5d4914e2",
-      "pdf_sha256": "266c4de566e8d84109f1f54bf517cbdb4e2c5183e0bddeabb1e75f7a4e8ef2a4",
+      "pdf_created_utc": "2026-10-09 19:37:43 UTC",
+      "commit": "5634b8b08366d34e090d1cdd87ec83d2baea58ba",
+      "pdf_sha256": "ecb631e3422de6a9d0406657aca2acd4bab64c8cbd6aa69004c9675e34f9aed2",
       "translations": [
         "sv"
       ]
