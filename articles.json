@@ -2,6 +2,15 @@
   "schema": 1,
   "articles": [
     {
+      "repository": "hobnilre/physics-mad-scientist-1",
+      "description": "Four conditional event models above COP 1.15, with simulations and measurement predictions.",
+      "pdf": "physics-mad-scientist-1.pdf",
+      "pdf_created_utc": "2026-10-10 06:32:46 UTC",
+      "commit": "834071151255d5e81d4412c25055dc5bd7438759",
+      "pdf_sha256": "ef1cbf7536861b65c6c07eb5c93793b9f8761ac4ea3ccee47ef6a9cc0087c0e3",
+      "translations": []
+    },
+    {
       "repository": "hobnilre/physics-ode-energy",
       "description": "When an unknown ODE term supplies or absorbs energy, and how X=LRC scales the transfer on a fixed trajectory.",
       "pdf": "physics-ode-energy.pdf",
