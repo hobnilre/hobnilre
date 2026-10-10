@@ -6,9 +6,11 @@
       "description": "Four conditional event models above COP 1.15, with simulations and measurement predictions.",
       "pdf": "physics-mad-scientist-1.pdf",
       "pdf_created_utc": "2026-10-10 06:32:46 UTC",
-      "commit": "834071151255d5e81d4412c25055dc5bd7438759",
+      "commit": "0b248bceaa118992d898dd29dc16d9811fcccc52",
       "pdf_sha256": "ef1cbf7536861b65c6c07eb5c93793b9f8761ac4ea3ccee47ef6a9cc0087c0e3",
-      "translations": []
+      "translations": [
+        "sv"
+      ]
     },
     {
       "repository": "hobnilre/physics-ode-energy",
