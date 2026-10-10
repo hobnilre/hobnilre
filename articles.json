@@ -2,6 +2,17 @@
   "schema": 1,
   "articles": [
     {
+      "repository": "hobnilre/physics-impact-driver-model",
+      "description": "One rotary impact: synthesized higher-order terms, an unknown hammer component and apparent COP.",
+      "pdf": "physics-impact-driver-model.pdf",
+      "pdf_created_utc": "2026-10-10 16:36:46 UTC",
+      "commit": "628474003892766035bbc20d6beab9e028b5a997",
+      "pdf_sha256": "c65c73d8b368ad057ccaba0757e5f84bf3d37eedc547debbaf267aa21afcd717",
+      "translations": [
+        "sv"
+      ]
+    },
+    {
       "repository": "hobnilre/physics-mad-scientist-2",
       "description": "Four executed event models with COP above 1.15, explicit work accounts and ordinary-instrument measurement budgets.",
       "pdf": "physics-mad-scientist-2.pdf",
@@ -149,15 +160,6 @@
       "pdf_created_utc": "2026-10-06 12:34:39 UTC",
       "commit": "bab7be03619a26710f4645e38ba83e62c35ee677",
       "pdf_sha256": "de97a7129db029cf14450928a10f6126ad1d4ae67b7be668fff336663ea8963e",
-      "translations": []
-    },
-    {
-      "repository": "hobnilre/physics-impact-driver-model",
-      "description": "Impact-driver model comparisons: derivative contact limits, passive memory and flexible-output dynamics.",
-      "pdf": "physics-impact-driver-model.pdf",
-      "pdf_created_utc": "2026-10-06 08:48:47 UTC",
-      "commit": "7d881dea0d48ca55ec5c09150759ac3cabd3fb94",
-      "pdf_sha256": "5e81d9793c4b711a6ed8f0538cb19935d2443fd0ec9b16ad35f8ca04435f2f67",
       "translations": []
     }
   ]

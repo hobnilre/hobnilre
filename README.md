@@ -8,6 +8,7 @@ latest published PDF (UTC), so a revised edition can move an older article up th
 
 | Article | Translations | In brief | PDF created (UTC) |
 | --- | --- | --- | --- |
+| [physics-impact-driver-model](https://github.com/hobnilre/physics-impact-driver-model) · [PDF](https://github.com/hobnilre/physics-impact-driver-model/blob/main/physics-impact-driver-model.pdf) | [sv](https://github.com/hobnilre/physics-impact-driver-model/tree/main/sv) | One rotary impact: synthesized higher-order terms, an unknown hammer component and apparent COP. | 2026-10-10 16:36:46 |
 | [physics-mad-scientist-2](https://github.com/hobnilre/physics-mad-scientist-2) · [PDF](https://github.com/hobnilre/physics-mad-scientist-2/blob/main/physics-mad-scientist-2.pdf) | [sv](https://github.com/hobnilre/physics-mad-scientist-2/tree/main/sv) | Four executed event models with COP above 1.15, explicit work accounts and ordinary-instrument measurement budgets. | 2026-10-10 10:00:04 |
 | [physics-mad-scientist-1](https://github.com/hobnilre/physics-mad-scientist-1) · [PDF](https://github.com/hobnilre/physics-mad-scientist-1/blob/main/physics-mad-scientist-1.pdf) | [sv](https://github.com/hobnilre/physics-mad-scientist-1/tree/main/sv) | Four conditional event models above COP 1.15, with simulations and measurement predictions. | 2026-10-10 06:32:46 |
 | [physics-ode-energy](https://github.com/hobnilre/physics-ode-energy) · [PDF](https://github.com/hobnilre/physics-ode-energy/blob/main/physics-ode-energy.pdf) | [sv](https://github.com/hobnilre/physics-ode-energy/tree/main/sv) | When an unknown ODE term supplies or absorbs energy, and how X=LRC scales the transfer on a fixed trajectory. | 2026-10-09 19:37:43 |
@@ -23,6 +24,5 @@ latest published PDF (UTC), so a revised edition can move an older article up th
 | [physics-gear-op](https://github.com/hobnilre/physics-gear-op) · [PDF](https://github.com/hobnilre/physics-gear-op/blob/main/finite-transfers-and-open-energy-balances.pdf) | — | Physical tests of loaded gears, switched returns and prepared states. | 2026-10-06 12:34:41 |
 | [physics-gear](https://github.com/hobnilre/physics-gear) · [PDF](https://github.com/hobnilre/physics-gear/blob/main/frames-returns-and-port-power.pdf) | — | Four gear shafts, their loaded reactions and electrical counterparts. | 2026-10-06 12:34:39 |
 | [rust-sim-the-book](https://github.com/hobnilre/rust-sim-the-book) · [PDF](https://github.com/hobnilre/rust-sim-the-book/blob/main/rust-sim-the-book.pdf) | — | Book draft on SIM architecture and kernel contracts; chapters 1–2 populated, chapters 3–9 planned. | 2026-10-06 12:34:39 |
-| [physics-impact-driver-model](https://github.com/hobnilre/physics-impact-driver-model) · [PDF](https://github.com/hobnilre/physics-impact-driver-model/blob/main/physics-impact-driver-model.pdf) | — | Impact-driver model comparisons: derivative contact limits, passive memory and flexible-output dynamics. | 2026-10-06 08:48:47 |
 
 <!-- article-tools:articles:end -->
