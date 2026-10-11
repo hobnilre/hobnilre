@@ -2,6 +2,17 @@
   "schema": 1,
   "articles": [
     {
+      "repository": "hobnilre/physics-mad-scientist-1",
+      "description": "Four conditional event models above COP 1.15, with simulations and measurement predictions.",
+      "pdf": "physics-mad-scientist-1.pdf",
+      "pdf_created_utc": "2026-10-11 09:26:39 UTC",
+      "commit": "f1d6ddd14993f468867092aff279cfffe0730b3a",
+      "pdf_sha256": "0cab181d400397237c81c644ab98fe36fcc7a01147fdd0e1c53ba1911b7eb0f7",
+      "translations": [
+        "sv"
+      ]
+    },
+    {
       "repository": "hobnilre/physics-mad-scientist-2",
       "description": "Four executed event models with COP above 1.15, explicit work accounts and ordinary-instrument measurement budgets.",
       "pdf": "physics-mad-scientist-2.pdf",
@@ -19,17 +30,6 @@
       "pdf_created_utc": "2026-10-10 16:36:46 UTC",
       "commit": "628474003892766035bbc20d6beab9e028b5a997",
       "pdf_sha256": "c65c73d8b368ad057ccaba0757e5f84bf3d37eedc547debbaf267aa21afcd717",
-      "translations": [
-        "sv"
-      ]
-    },
-    {
-      "repository": "hobnilre/physics-mad-scientist-1",
-      "description": "Four conditional event models above COP 1.15, with simulations and measurement predictions.",
-      "pdf": "physics-mad-scientist-1.pdf",
-      "pdf_created_utc": "2026-10-10 06:32:46 UTC",
-      "commit": "0b248bceaa118992d898dd29dc16d9811fcccc52",
-      "pdf_sha256": "ef1cbf7536861b65c6c07eb5c93793b9f8761ac4ea3ccee47ef6a9cc0087c0e3",
       "translations": [
         "sv"
       ]
