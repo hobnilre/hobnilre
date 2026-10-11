@@ -2,23 +2,23 @@
   "schema": 1,
   "articles": [
     {
+      "repository": "hobnilre/physics-mad-scientist-2",
+      "description": "Four executed event models with COP above 1.15, explicit work accounts and ordinary-instrument measurement budgets.",
+      "pdf": "physics-mad-scientist-2.pdf",
+      "pdf_created_utc": "2026-10-11 09:22:10 UTC",
+      "commit": "7fe9cc2d3471ba9ca18b827f49cab20587797b53",
+      "pdf_sha256": "3a0e0ffc23bd61657adb5ad3e02a0d75d17ea41f89c344c87102b5d50f858e06",
+      "translations": [
+        "sv"
+      ]
+    },
+    {
       "repository": "hobnilre/physics-impact-driver-model",
       "description": "One rotary impact: synthesized higher-order terms, an unknown hammer component and apparent COP.",
       "pdf": "physics-impact-driver-model.pdf",
       "pdf_created_utc": "2026-10-10 16:36:46 UTC",
       "commit": "628474003892766035bbc20d6beab9e028b5a997",
       "pdf_sha256": "c65c73d8b368ad057ccaba0757e5f84bf3d37eedc547debbaf267aa21afcd717",
-      "translations": [
-        "sv"
-      ]
-    },
-    {
-      "repository": "hobnilre/physics-mad-scientist-2",
-      "description": "Four executed event models with COP above 1.15, explicit work accounts and ordinary-instrument measurement budgets.",
-      "pdf": "physics-mad-scientist-2.pdf",
-      "pdf_created_utc": "2026-10-10 10:00:04 UTC",
-      "commit": "349e7e64253d62fbc2f51ce7bbe99693ce6c0887",
-      "pdf_sha256": "8461ca62259b3638ff8b3e6525dd008fd357cf8511b5d2925c20b8b08edfc413",
       "translations": [
         "sv"
       ]
