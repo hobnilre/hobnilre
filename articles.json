@@ -2,6 +2,17 @@
   "schema": 1,
   "articles": [
     {
+      "repository": "hobnilre/physics-teeterboard",
+      "description": "Why the teeterboard event exceeds COP 1.15: derivation and reproduction in six pages, in English and Swedish.",
+      "pdf": "physics-teeterboard.pdf",
+      "pdf_created_utc": "2026-10-12 09:56:11 UTC",
+      "commit": "58afbb5cc90872ea37df4975346b68c451f22333",
+      "pdf_sha256": "b5348547f0ed41d1ef438b220af04675cd370943ce020d7723287580eca3b7a5",
+      "translations": [
+        "sv"
+      ]
+    },
+    {
       "repository": "hobnilre/physics-mad-scientist-1",
       "description": "Four conditional event models above COP 1.15, with simulations and measurement predictions.",
       "pdf": "physics-mad-scientist-1.pdf",
